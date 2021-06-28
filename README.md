@@ -1,1 +1,2 @@
-# okayeg-emotes
+# OkayegBot — Emote Base
+## Your Twitch helper
