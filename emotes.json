@@ -1,24 +1,22 @@
 [
     {
-        "animated": true,
         "type": "bttv",
         "name": "EGIUM",
         "id": "6079d65239b5010444d00966"
     },
     {
-        "animated": false,
-        "type": "bttv",
-        "name": "Klass",
-        "id": "5d8f9e531df66f68c80c54c7"
-    },
-    {
-        "type": "ffz",
-        "name": "pepeLaugh",
-        "id": 341767
+        "type": "twitch",
+        "name": "WAYTOODERP",
+        "id": "f9b53a6e12d041da9593a19da4bab9ca"
     },
     {
         "type": "sticker",
         "name": "Hmm",
         "id": "CAACAgIAAxkBAAECfy5g2lrvhdTElBElhA7_pKMmLJ-0OQAC9AADohXiCZ4uAAE1LSjfAyAE"
+    },
+    {
+        "type": "sticker",
+        "name": "Rilaveon",
+        "id": "CAACAgIAAxkBAAECfzNg2mcJiy44EkcGtTAXbVKV3ptZRQACUwMAArVx2gbtH-L5lSdj5CAE"
     }
 ]
