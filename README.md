@@ -21,7 +21,7 @@
 <summary>🇬🇧 This bot will help you use Twitch/BTTV/FFZ emotes directly in Telegram</summary>
 
 It works automatically, no need to add it anywhere. 
-Simply open any of your chats and type @OkayegBot something in the message field. 
+Simply open any of your chats and type `@OkayegBot` something in the message field. 
 Then tap on a result to send.
 
 For example, try typing 
