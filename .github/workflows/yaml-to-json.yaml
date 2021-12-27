@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  use:
     runs-on: ubuntu-latest
 
     steps:
@@ -22,4 +22,5 @@ jobs:
           path: 'db/all.yaml'
           from: 'yaml'
           to: 'json'
-
+      - name: Print json2yaml result
+        run: echo "${{ steps.json2yaml.outputs.data }}"
