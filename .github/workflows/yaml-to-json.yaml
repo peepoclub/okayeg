@@ -17,7 +17,9 @@ jobs:
 
       - name: Convert YAML to JSON
         uses: fabasoad/yaml-json-xml-converter-action@main
+        id: yaml2json
         with:
           path: 'db/all.yaml'
           from: 'yaml'
           to: 'json'
+
