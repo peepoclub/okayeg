@@ -1,634 +1,1055 @@
-- type: bttv
-  name: EGIUM
-  id: 6079d65239b5010444d00966
-- type: twitch
-  name: WAYTOODERP
-  id: f9b53a6e12d041da9593a19da4bab9ca
-- type: bttv
-  name: GlitchLurk
-  id: 5da60bc688078c4ac515dda0
-- type: bttv
-  name: pukIng
-  id: 5eb1340650eb4f058b85841a
-- type: bttv
-  name: forsenRage
-  id: 5f1158e973e8e20538d8376f
-- type: sticker
-  name: VanishMe
-  id: CAACAgIAAxkBAAECf0Bg2mzkUBjbqQIaWAm_E7s4WbJrVAACSQIAAladvQoqlwydCFMhDiAE
-- type: sticker
-  name: Flushed
-  id: CAACAgEAAxkBAAECf0Jg2mz0cf3IN767CuzLGdniRD_VcgAC0QcAAuN4BAABNof1qTuyYVMgBA
-- type: bttv
-  name: peepoKotleta
-  id: 5f241d1c65fe924464eef109
-- type: bttv
-  name: lurkingChat
-  id: 5f250957cf6d2144653dbe7d
-- type: sticker
-  name: peepoSad
-  id: CAACAgEAAxkBAAECf0Rg2m0QaZTwINOAaa9SkIIQTI8sNAACdAgAAuN4BAABuKBtpCF8NTcgBA
-- type: sticker
-  name: peepoSad
-  id: CAACAgIAAxkBAAECf0Zg2m1Fo57TFHcFuK2Hd6yyklEo1QACSwADtEzqKHFq7ISbfBXoIAQ
-- type: sticker
-  name: Pooshka
-  id: CAACAgIAAxkBAAECf75g2nqAATrnUIMiDpP35OcC_tnDeAACZA4AAjFw2UoFnmC5crNFQCAE
-- type: sticker
-  name: peepoHey
-  id: CAACAgEAAxkBAAECf0pg2m1eVEIVswSGW23R4iaW1WX5twAC_QADhUKZRiNLipodJeHTIAQ
-- type: sticker
-  name: peepoShy
-  id: CAACAgQAAxkBAAECf0xg2m1xHC9al1ob5rr2p_B23V2hKQACUgEAAqghIQa9sh9fx49NrCAE
-- type: bttv
-  name: PETTHEDERP
-  id: 5f28170d65fe924464ef2c4e
-- type: sticker
-  name: Angry
-  id: CAACAgQAAxkBAAECf0xg2m1xHC9al1ob5rr2p_B23V2hKQACUgEAAqghIQa9sh9fx49NrCAE
-- type: bttv
-  name: PETTHEPOOSHKA
-  id: 5f2d634865fe924464ef7cca
-- type: bttv
-  name: pepeChat
-  id: 5f47e8acb2efd65d77e8f18d
-- type: bttv
-  name: pwgoodChat
-  id: 5f4cd96b6084af6c171934f1
-- type: sticker
-  name: Prikol
-  id: CAACAgEAAxkBAAECf1Bg2m4--lNCzSdNjg05CC8jSMetmgACoAgAAuN4BAABhkQLrwR1OAogBA
-- type: bttv
-  name: peepoEvil
-  id: 5f4e9adf0b77be6bfcacdaa3
-- type: bttv
-  name: Trefis
-  id: 5f5b872caa6fe06bfb603cfe
-- type: bttv
-  name: AlienPls2
-  id: 5f5e23c13769246c0321af5a
-- type: bttv
-  name: Unless
-  id: 5f8169552bd46e4a86b12a0d
-- type: bttv
-  name: EtoMozhnoNapisatBukvami
-  id: 5f81d979e9c9344a8f35717d
-- type: bttv
-  name: peepoKittyHug
-  id: 5f95e836473f4802fe47c57a
-- type: sticker
-  name: Cool
-  id: CAACAgEAAxkBAAECf1Jg2m5OGCcqF2m6bNRzbETl8IXz9QACjAgAAuN4BAABFjztRpu5erogBA
-- type: bttv
-  name: Leave
-  id: 5fa97c012d853564472cfac1
-- type: bttv
-  name: peepoLeave
-  id: 5fa984f3eca18f6455c2bb0a
-- type: sticker
-  name: Where
-  id: CAACAgEAAxkBAAECf1Rg2m5hxdnNt8QLXgZebDaDyJP_HwACwwgAAuN4BAABPmG4Oq4pcnsgBA
-- type: bttv
-  name: lizardJAM
-  id: 6022965c609f1c336ffe54ef
-- type: bttv
-  name: jamCAT
-  id: 606bd475fba15a03df2c8fec
-- type: sticker
-  name: Actually
-  id: CAACAgEAAxkBAAECf1Zg2m5x610gHRvCJ3KoWPl_RLKysgACLwEAAtnAWEUCsgvNZyDitCAE
-- type: sticker
-  name: Hmm
-  id: CAACAgIAAxkBAAECfy5g2lrvhdTElBElhA7_pKMmLJ-0OQAC9AADohXiCZ4uAAE1LSjfAyAE
-- type: sticker
-  name: Rilaveon
-  id: CAACAgIAAxkBAAECfzNg2mcJiy44EkcGtTAXbVKV3ptZRQACUwMAArVx2gbtH-L5lSdj5CAE
-- type: bttv
-  name: Clap
-  id: 55b6f480e66682f576dd94f5
-- type: bttv
-  name: CrabPls
-  id: 5c2a4ddda402f16774559abe
-- type: bttv
-  name: PepeS
-  id: 59420c88023a013b50774872
-- type: bttv
-  name: HYPERCLAP
-  id: 5b35ca08392c604c5fd81874
-- type: bttv
-  name: KKool
-  id: 56c2cff2d9ec6bf744247bf1
-- type: bttv
-  name: forsenPls
-  id: 55e2096ea6fa8b261f81b12a
-- type: bttv
-  name: TriKool
-  id: 59a6d3dedccaf930aa8f3de1
-- type: bttv
-  name: nymnCorn
-  id: 56cb56f5500cb4cf51e25b90
-- type: bttv
-  name: EatPoo
-  id: 5903aeee981c75232793894d
-- type: bttv
-  name: GachiPls
-  id: 58868aa5afc2ff756c3f495e
-- type: bttv
-  name: HACKERMANS
-  id: 5b490e73cf46791f8491f6f4
-- type: bttv
-  name: PotatoTriggered
-  id: 5b9eea402e04a1152331ac68
-- type: bttv
-  name: gachiHYPER
-  id: 59143b496996b360ff9b807c
-- type: bttv
-  name: billyReady
-  id: 58763fcecb2b7248f8b9b0cf
-- type: bttv
-  name: monkaTOS
-  id: 5a7fd054b694db72eac253f4
-- type: bttv
-  name: GuitarTime
-  id: 576befd71f520d6039622f7e
-- type: bttv
-  name: pepeJAMJAM
-  id: 5c36fba2c6888455faa2e29f
-- type: bttv
-  name: HYPERJAM
-  id: 5c16fe9c5d8b2f53da70838a
-- type: bttv
-  name: forsenDiscoSnake
-  id: 5a8314b61686393232d31027
-- type: bttv
-  name: forsenSWA
-  id: 571647c4793a158658202e2e
-- type: bttv
-  name: gachiHop
-  id: 571e5ae5ef2b92040a9682c7
-- type: bttv
-  name: hackerCD
-  id: 5d82600ec0652668c9e4e2f2
-- type: bttv
-  name: BLELELE
-  id: 583eb50550222f7f1086e012
-- type: bttv
-  name: monkaEXTREME
-  id: 5b8a9c6f80c14b0422a7b2a0
-- type: bttv
-  name: ppHopper
-  id: 5b0da25016252035ad06900e
-- type: bttv
-  name: ppHop
-  id: 5a9578d6dcf3205f57ba294f
-- type: bttv
-  name: ppOverheat
-  id: 5b3e953a2c8a38720760c7f7
-- type: bttv
-  name: gachiBASS
-  id: 57719a9a6bdecd592c3ad59b
-- type: bttv
-  name: TriYoink
-  id: 5e235a25bca2995f13fbb373
-- type: bttv
-  name: peepoBed
-  id: 5e45cbd4751afe7d553db6a0
-- type: bttv
-  name: RickPls
-  id: 55a16413bcf69555414360f2
-- type: bttv
-  name: PianoTime
-  id: 5b4d2e45b7b52c3958c8f5cf
-- type: bttv
-  name: peepoGiggle
-  id: 5e1eb57cbca2995f13fb7ce7
-- type: bttv
-  name: AweeWoo
-  id: 5cb66b07c739ce7eb6e86dd1
-- type: bttv
-  name: Tasty
-  id: 5e830c3a269f8409604a06f9
-- type: bttv
-  name: wtfChat
-  id: 5ea2017dd023b362f638f858
-- type: bttv
-  name: StreamerDoesntKnow
-  id: 5e7cdc1d6d485d372b29e733
-- type: bttv
-  name: PETTHEPEEPO
-  id: 5ec059009af1ea16863b2dec
-- type: bttv
-  name: CatType
-  id: 5eb5f69ff0fb3f168c4ac934
-- type: bttv
-  name: peepoShut
-  id: 5e12e38d3267f72103fd6b15
-- type: bttv
-  name: forsenCoomer
-  id: 5ec7287010aaa55e294663dc
-- type: bttv
-  name: AlienPls
-  id: 5e9d8af27e090362f8b0ce95
-- type: bttv
-  name: kekBomb
-  id: 5d622332375afb1da9a68154
-- type: bttv
-  name: WAYTOOSMART
-  id: 5e1ab7e088e62a5f14dc534d
-- type: bttv
-  name: FastMineTime
-  id: 5ed0576a924aa35e32a635a0
-- type: bttv
-  name: docPls
-  id: 5e2eaabeb1d0ac51e8ece290
-- type: bttv
-  name: monkaE
-  id: 5e10fd8c3267f72103fd4f25
-- type: bttv
-  name: forsenParty
-  id: 5f22a6cefe85fb4472d1a75f
-- type: bttv
-  name: HELLO
-  id: 5fb049ed2d853564472d7450
-- type: bttv
-  name: DinkDonk
-  id: 5f898862473f4802fe4703a6
-- type: bttv
-  name: NOOOO
-  id: 5fc7d1f78c4e2c46195cbf2e
-- type: bttv
-  name: popCat
-  id: 5fa8f232eca18f6455c2b2e1
-- type: bttv
-  name: monkaCat
-  id: 5f9be415473f4802fe482637
-- type: bttv
-  name: peepoPooPoo
-  id: 5fc60bd1cbd462462d55eeb6
-- type: bttv
-  name: pepeW
-  id: 5f5cf1893769246c03219e91
-- type: bttv
-  name: NOIDONTTHINKSO
-  id: 5f10cdc819a5bd0524ecc8f7
-- type: bttv
-  name: peepoArrive
-  id: 5fff6af9a637883149c82341
-- type: bttv
-  name: peepoWeirdLeave
-  id: 5df11386e7df1277b6070304
-- type: bttv
-  name: catKISS
-  id: 5f455410b2efd65d77e8cb14
-- type: bttv
-  name: WeirdChamping
-  id: 5fccf1699d35484633453e68
-- type: bttv
-  name: sadCat
-  id: 5e116a78b640b52102c64372
-- type: bttv
-  name: peepoOD
-  id: 5e1901238af14b5f1b43785c
-- type: bttv
-  name: peepoClap
-  id: 5d38aaa592fc550c2d5996b8
-- type: bttv
-  name: ppCircle
-  id: 5b71c875f917661fecd1e14a
-- type: bttv
-  name: docJAM
-  id: 5fb7e2a3c242076f1a04e9cb
-- type: bttv
-  name: pepeSenora
-  id: 5db01c1e6fc9dd12cbaf12c9
-- type: bttv
-  name: TeaTime
-  id: 601c49b8f5d29f65e86e6caa
-- type: bttv
-  name: ppPoof
-  id: 5afe99e57724ae2706b27355
-- type: bttv
-  name: ppFoop
-  id: 5c7e79ce298047130f9fb76f
-- type: bttv
-  name: hyperWOW
-  id: 5cf69d7767398f2d6a1f9726
-- type: bttv
-  name: Sadge
-  id: 5f8d8508473f4802fe473f58
-- type: bttv
-  name: Kissahomie
-  id: 5ecee2f6924aa35e32a619b7
-- type: bttv
-  name: pepeMeltdown
-  id: 5ba84271c9f0f66a9efc1c86
-- type: sticker
-  name: Yasno
-  id: CAACAgIAAxkBAAECf8Bg2n8zjUJTaFrqFJ5lr3o7s5KSVwACRgMAArVx2gbyolHjVhMwjCAE
-- type: bttv
-  name: ppSpin
-  id: 5fab391542cf82644d875257
-- type: bttv
-  name: modCheck
-  id: 602fed8aa94aaa6e662d8470
-- type: bttv
-  name: KKatJAM
-  id: 5f3423c53212445d6fb3f3c4
-- type: bttv
-  name: STARE
-  id: 605c60aa7493072efdeb4313
-- type: bttv
-  name: ppClown
-  id: 5eb435b3813f92169355130c
-- type: bttv
-  name: catJAM
-  id: 5f1b0186cf6d2144653d2970
-- type: bttv
-  name: ppJAM
-  id: 5ce6e1d031373227cbbd88c9
-- type: bttv
-  name: Shulker
-  id: 6053e4be306b602acc59f8de
-- type: bttv
-  name: peepoChat
-  id: 5e1bd08688e62a5f14dc6316
-- type: bttv
-  name: AlienPls3
-  id: 607d5f6639b5010444d022a0
-- type: bttv
-  name: pepeD
-  id: 6073c41539b5010444cfd90c
-- type: bttv
-  name: MODS
-  id: 60217cb4cc5c150246d90cd4
-- type: bttv
-  name: headBang
-  id: 6047c3e7306b602acc599d48
-- type: bttv
-  name: peepoTalk
-  id: 608f154f39b5010444d0a765
-- type: bttv
-  name: VeryPog
-  id: 60ade6eaf8b3f62601c332dc
-- type: bttv
-  name: OMEGALULiguess
-  id: 6034124c7c74605395f326c9
-- type: bttv
-  name: AlienDance
-  id: 60b13dfcf8b3f62601c34b9f
-- type: bttv
-  name: ppFall
-  id: 5faa04e34dfba164402986d2
-- type: bttv
-  name: peepoRun
-  id: 5fd783abc158a13494c3d73a
-- type: bttv
-  name: peepoRain
-  id: 60d1c57d8ed8b373e4217bee
-- type: sticker
-  name: peepoHappy
-  id: CAACAgIAAxkBAAECf1pg2nAu4ByMGv5adhxEp2aKsOyP6gACEAADtEzqKCZB_akgpMoxIAQ
-- type: sticker
-  name: peepoLove
-  id: CAACAgIAAxkBAAECf1xg2nBa8qIvwEJ2D4_VqVvD4eDVRQACFgADtEzqKGjtSQhHsjMgIAQ
-- type: sticker
-  name: peepoS
-  id: CAACAgIAAxkBAAECf15g2nCDVRgNytdA6Q9wYO8vVDH2jwACDQADtEzqKF1fyAABoR7O1CAE
-- type: sticker
-  name: 4Head
-  id: CAACAgIAAxkBAAEClg5g8WJwVIPe6BR50RLh5vQOez7-EAACNA4AAmzIkEuy73kbZrzJViAE
-- type: sticker
-  name: 4HEader
-  id: CAACAgIAAxkBAAEClhBg8WJz7q2qPu-36v2tHwiWxLTqQAACqw0AAsBPkEsKf0KbfATqMCAE
-- type: sticker
-  name: 4House
-  id: CAACAgIAAxkBAAEClhJg8WJ1-V8JYAmIptUTMTyg3-3MQQACbhEAAhGvkUslZvaJhvOCeSAE
-- type: sticker
-  name: forsenKek
-  id: CAACAgIAAxkBAAECf2Jg2nF1KDntwmLskkTUA46Ob5msKwAC3gEAAuN00hbiPoLl03BUpiAE
-- type: sticker
-  name: forsenScoots
-  id: CAACAgIAAxkBAAECf2Rg2nHI26zfgnmuhh3X8qDOEwH0nwACRQoAAqJk2EopmqwLNsFVFyAE
-- type: sticker
-  name: FeelsDonkMan
-  id: CAACAgIAAxkBAAECgWtg2zxnB96zi9TCG3Vo4m5M7NFRJAAC3gADohXiCfoE0_7CxaI8IAQ
-- type: sticker
-  name: Blyatge
-  id: CAACAgIAAxkBAAECf3Bg2nJhmRh7VgXlD3Rr_kR8rmBjrwACFhAAAumpkEpfiIIl3Q3y3SAE
-- type: sticker
-  name: Okayge
-  id: CAACAgIAAxkBAAECf3Jg2nJj8_pBmla6C-_Ztg2UtHimRgAC5A4AAmDNkUoUx2_CHcqw1yAE
-- type: sticker
-  name: YEP
-  id: CAACAgIAAxkBAAECf3Jg2nJj8_pBmla6C-_Ztg2UtHimRgAC5A4AAmDNkUoUx2_CHcqw1yAE
-- type: sticker
-  name: trefisChad
-  id: CAACAgIAAxkBAAECf2xg2nJC2y38nJvNNgxM4Ce5FUWDPQAC8QADohXiCTyVB883JS-zIAQ
-- type: sticker
-  name: OMEGALUL
-  id: CAACAgIAAxkBAAECf3Zg2nL0dUp9iQGS4nt69Ig2FrLNkwAClhQAAi7q0Uow-bc9A0ql8CAE
-- type: sticker
-  name: forsenWhat
-  id: CAACAgIAAxkBAAECf3hg2nMJV6xQBoZxxvgcR4jpMm0PMAACEQ0AAsq42EqDGjP5RuKDxyAE
-- type: sticker
-  name: peepoWTF
-  id: CAACAgIAAxkBAAECf3pg2nMc79xN0eK34hjyO4Hl5UY7MQACDgADtEzqKAfUAwMOZO9EIAQ
-- type: sticker
-  name: pepeLaugh
-  id: CAACAgIAAxkBAAECf3xg2nMomV0CfSZMi-7H9ZjxZ0Ym5AACgA0AAmtugUoegJ8cAAGAti0gBA
-- type: sticker
-  name: HandsUp
-  id: CAACAgIAAxkBAAECf4Zg2nSQugABkIXL-pDdaKZVkoI38zIAAuMMAAJ4edhKUYW_OXAyr38gBA
-- type: sticker
-  name: KKomrade
-  id: CAACAgIAAxkBAAECf4hg2nSdRZlASoLBNVZJL4lR4UqAbwACDxEAAv8c0UrkommFAtOhbyAE
-- type: sticker
-  name: peepoIgnore
-  id: CAACAgIAAxkBAAECf4pg2nS3_cnrg1-dAiq6vXQBOWwfTwACPAADtEzqKHELmhPmDz-fIAQ
-- type: sticker
-  name: Pepepains
-  id: CAACAgIAAxkBAAECf4xg2nTNmvJdJim3rFtx3wABvYqt52gAAqQNAAJgitlKnaL5hcQnI6ogBA
-- type: sticker
-  name: PepoThink
-  id: CAACAgIAAxkBAAECf45g2nTcLwqNbMS33YUg-4hMPx7TdQACWBIAAohO0EqzRjI7n8VmViAE
-- type: sticker
-  name: eShrug
-  id: CAACAgIAAxkBAAECf4Jg2nPZgDy7Dzv28E78mLf5bwABOmUAAuwLAALJTnhK4Sk6SoxlhjogBA
-- type: sticker
-  name: peepoDown
-  id: CAACAgIAAxkBAAECf5Bg2nT0HgZjRBJ797spMWpIqARZrgACMwADtEzqKFMT0AFgaraZIAQ
-- type: sticker
-  name: forsenCD
-  id: CAACAgIAAxkBAAECf4Rg2nR_MHR--UPL-u0sO4ywroVW2AAC3AADohXiCeGUISZePNPVIAQ
-- type: sticker
-  name: monkaOMEGA
-  id: CAACAgIAAxkBAAEClldg8YM94HvPwHQf2zJdKsCbDagd2wAC1gwAAumY-Uotx4H9f2Aw2SAE
-- type: sticker
-  name: forsenHead
-  id: CAACAgIAAxkBAAECf5Rg2nVgSDAhXZOLlYUTlcXFUvqEpgACuw4AAh-G0UrcEpz90CZM8SAE
-- type: sticker
-  name: widepeepoHappy
-  id: CAACAgIAAxkBAAECf5Zg2nVvyEhzF7eoGz-Qgmnz-56b3QACYgADtEzqKA4S-C1GEmhPIAQ
-- type: sticker
-  name: widepeepoSad
-  id: CAACAgIAAxkBAAECf5hg2nV23wEmHKn-0_ec0LB3A4LmCAACYQADtEzqKHaFdfXcurxkIAQ
-- type: sticker
-  name: MMmmm
-  id: CAACAgIAAxkBAAECf5pg2nWvqFGTf-d8RQHnInh2amGeDgACxw8AAqTb0UqKSNqg2D1ppiAE
-- type: sticker
-  name: Gigachad
-  id: CAACAgIAAxkBAAECf5xg2nW61GmXm4m8Nlr_Q3jAD-m3uwACIAwAAr9NgEr6Tp3w_wOAHiAE
-- type: sticker
-  name: PogChamp
-  id: CAACAgIAAxkBAAECf55g2nXHZzkY4kyHRcvAZD0H89PxlQAC7wADohXiCVS3c7bL00JLIAQ
-- type: sticker
-  name: Okey
-  id: CAACAgIAAxkBAAECf6Bg2nXf6XxOdHiK2yGmK6xN_HjJuwACuAoAAkyTgEoJVFRJie4dJCAE
-- type: sticker
-  name: Kapp
-  id: CAACAgIAAxkBAAECf6Jg2na6xAXsXZYLS2lgTFRoPkNwxQACbw0AAu3i2Eq-SXtsOd4xeCAE
-- type: sticker
-  name: peepoFriendship
-  id: CAACAgIAAxkBAAECf6Rg2nbF8ZCK6cvylH1-kfLoGLxY-AACOQADtEzqKIbJsklTfFP4IAQ
-- type: sticker
-  name: FeelsWeirdMan
-  id: CAACAgIAAxkBAAECf7xg2njolTluSox4kZyoHFLqHgPJIQACbhAAAqF_0UrAz0FQDn-VCyAE
-- type: sticker
-  name: gachiGASM
-  id: CAACAgIAAxkBAAECf6Zg2nfjL6Fyu7lH0aNFJ4dAA2IAAcgAAsAQAAIQ09hKMy8sfTiQxpEgBA
-- type: sticker
-  name: monkaLaugh
-  id: CAACAgIAAxkBAAECf6xg2ngqdeQNKUx73rTqk7nmwta6TAAC-AADohXiCWrWrXHFxO7lIAQ
-- type: sticker
-  name: FeelsDankMan
-  id: CAACAgIAAxkBAAECf6pg2ngdy0XaDob1wntupgdvHcp1SQAC3QADohXiCfziaKlLMGoMIAQ
-- type: sticker
-  name: Maaaaan
-  id: CAACAgIAAxkBAAECf6hg2ngPFKOzlxXxy-QrY0qW2TjD5QACJAoAAv9-2En8TV0BFMH88SAE
-- type: sticker
-  name: FeelsStrongMan
-  id: CAACAgIAAxkBAAECf65g2ng50HilzJWYhBJmMyey6o_KiwACxgsAAoKImEqO9-Zy1yecrSAE
-- type: sticker
-  name: PepeA
-  id: CAACAgIAAxkBAAECf7Bg2nhD419Nark6Enb7oIBF4ygcxgAC8wADohXiCbd1UA2JDlo_IAQ
-- type: sticker
-  name: PagChomp
-  id: CAACAgIAAxkBAAECf7Jg2nhME3RJg393g4xQ8IZAJl0rPAACww0AAp5deUqNaZC3CuT6bSAE
-- type: sticker
-  name: BASED
-  id: CAACAgIAAxkBAAECf7Rg2nhV-dqMWmxEn9luXSWsZgtzxAAC2gADohXiCXjX5FrfpFBYIAQ
-- type: sticker
-  name: Okayeg
-  id: CAACAgIAAxkBAAECf7Zg2nhjxe98mH-yTHxvSUk6POVW6AACbhAAAp15kEo4rjWGsB5quyAE
-- type: sticker
-  name: forsenSmug
-  id: CAACAgIAAxkBAAECf7hg2ni29A0d1lSI1mm9ENhfgsmP4QACoxAAAgnF0EqJPDzXvJbnbyAE
-- type: sticker
-  name: pwgoodAAA
-  id: CAACAgIAAxkBAAECgBxg2v-knv-e3AfNWBsk87xWX1TTZgACegADQu1-HfRHtWq5cNxpIAQ
-- type: sticker
-  name: Spravedlivo
-  id: CAACAgIAAxkBAAECgB5g2v_9m6tWlYBROXVIFWUC40QywAACVAADuRtZC2dCUqTSakgJIAQ
-- type: sticker
-  name: KekeHands
-  id: CAACAgIAAxkBAAEChCJg3gEn1SNgP6t--X5lt8jApxqCHAACbBIAAqeU8UpN4slug_7-SiAE
-- type: sticker
-  name: PagMan
-  id: CAACAgIAAxkBAAEChFpg3pb-lPJnkwqMFtwIJFaS56f6lAAC5gADohXiCe3OLO1UCPqDIAQ
-- type: sticker
-  name: PogChamp
-  id: CAACAgIAAxkBAAEChFxg3pdbkYHtBcFtbBukGA21S_qnxwAC-QADohXiCd3RQyeE4hBvIAQ
-- type: sticker
-  name: KomodoHype
-  id: CAACAgIAAxkBAAEChFxg3pdbkYHtBcFtbBukGA21S_qnxwAC-QADohXiCd3RQyeE4hBvIAQ
-- type: sticker
-  name: PogChamp
-  id: CAACAgIAAxkBAAEChFxg3pdbkYHtBcFtbBukGA21S_qnxwAC-QADohXiCd3RQyeE4hBvIAQ
-- type: sticker
-  name: PauseChamp
-  id: CAACAgIAAxkBAAEChF5g3peLQIZ5JB48tnSWZRFD5LFRjQAC6QADohXiCaOBHx98dvrQIAQ
-- type: sticker
-  name: PauseChamp
-  id: CAACAgIAAxkBAAEChF9g3peMkxtLT-ISU9zAd4Ggi9qLwQAC6wADohXiCdOKYNEdRC2KIAQ
-- type: sticker
-  name: KEKG
-  id: CAACAgIAAxkBAAEChGJg3pe1TBYKNnG1QwYxOOWtqxFJ1gAC1gADohXiCYavZfHBaFuDIAQ
-- type: sticker
-  name: FeelsGoodMan
-  id: CAACAgIAAxkBAAEChGZg3pfm1WRCdKliHbBuy5ojbgb1jAAC9wADohXiCXVncVtHX7aoIAQ
-- type: sticker
-  name: monkaUOMEGA
-  id: CAACAgIAAxkBAAEChGhg3phevn1Vhu01RgWZkdox04MmVAAC1QgAAgP-gUpEXl2khbOczCAE
-- type: sticker
-  name: PagChomp
-  id: CAACAgIAAxkBAAEChGpg3phxr7UFBkCXnpr-k6k_FiUZrgAC7QADohXiCeBBKRont-GKIAQ
-- type: sticker
-  name: PissedChamp
-  id: CAACAgIAAxkBAAEChGxg3piJ8bCI-J-MhAg_T2Q2UZaflwAC8AADohXiCd4eCrt5bebuIAQ
-- type: sticker
-  name: 2020Suspicious
-  id: CAACAgIAAxkBAAEChG5g3pii-8P2nxLWUodvODTibk6e2QAC9gADohXiCeZakD1jt-gcIAQ
-- type: sticker
-  name: 2020Suspicious
-  id: CAACAgIAAxkBAAEChG5g3pii-8P2nxLWUodvODTibk6e2QAC9gADohXiCeZakD1jt-gcIAQ
-- type: sticker
-  name: 5Chomp
-  id: CAACAgIAAxkBAAEChHJg3pjaKOPDSls8Q6pMiF2Z6LaToAAC7gADohXiCWJFvf-aYcHBIAQ
-- type: sticker
-  name: Sadge
-  id: CAACAgIAAxkBAAEChHRg3pj4Fy_rJr7Ounddj95CCDR5GAAC9QADohXiCScoB3N93eNFIAQ
-- type: sticker
-  name: KEKWait
-  id: CAACAgIAAxkBAAEChHhg3plooycypEM2ct-X2D7Wg9ZCrQAC4wADohXiCeOVydGKqnEeIAQ
-- type: sticker
-  name: LOLE
-  id: CAACAgIAAxkBAAEChHlg3ploE74IvspbePmlPwxDkMHvSgAC5AADohXiCYpBdLjzfaN5IAQ
-- type: sticker
-  name: KEKVV
-  id: CAACAgIAAxkBAAEChHpg3plprdRF8XEwdDkbWh4vMJTXPQAC5QADohXiCUv77ZiSPizSIAQ
-- type: sticker
-  name: hpbLgbt
-  id: CAACAgIAAxkBAAEChIRg3pnmNZ4o_6lepBLdfF6X2p9oWgAC6AADohXiCVhGCLfuk64QIAQ
-- type: sticker
-  name: PepoG
-  id: CAACAgIAAxkBAAEChItg3rYFQUxHSFHxKH2j8VsZO0kFrgACsgwAAoBV8UpFNdnICB6msCAE
-- type: sticker
-  name: forsenBased
-  id: CAACAgIAAxkBAAEChMZg3sxhe3gGQjIrs2wELSAkmo_HKQACrg0AAgGY-ErScIly2ZdHJiAE
-- type: sticker
-  name: MEGALUL
-  id: CAACAgIAAxkBAAECiWtg40Kx9tD2vk51dMV8VYlwtK8zMQACZA4AAjFw2UoFnmC5crNFQCAE
-- type: sticker
-  name: BatChest
-  id: CAACAgIAAxkBAAECqExhAu4jrLmRRCsvSkmuZyTRlr4rzQAC5Q8AAhhkGEiE_CXKkBCQZCAE
-- type: sticker
-  name: CoolCat
-  id: CAACAgIAAxkBAAECqE5hAu6YRKAbjfnFXQ5auSPVZ7Ez5wACyg4AAlQFGUhLH9hCNOX2YCAE
-- type: sticker
-  name: KEKW
-  id: CAACAgIAAxkBAAECskJhDMcWHP6o2FY0rAAB8-glknhjCVcAAu4QAALO9GBIriF1V47XM8EgBA
-- type: sticker
-  name: pwgoodWeird
-  id: CAACAgIAAxkBAAEC9mdhUAuIN59FIhkKD59HOeCLTk1VRgACtAsAAopJgEqsxE7MIzWWEiEE
-- type: sticker
-  name: Chainik
-  id: CAACAgIAAxkBAAEC-JRhUbeBD2UgEwpB41AvxOazvh_VLAACGREAApzxkUqF3mcDGkGOniEE
-- type: sticker
-  name: EtoKomu
-  id: CAACAgIAAxkBAAEC_OFhVJmsux3fZZxlImYO3b6Qv3v8QwACYhIAAldEoUqcWPao0dKrXiEE
-- type: sticker
-  name: BOGGED
-  id: CAACAgIAAxkBAAEDg4Fhvd3elOC6SybJdhUoVKqBHrCAVQAC-RIAAsah8UnkX3963bzARyME
-- type: sticker
-  name: Clueless
-  id: CAACAgIAAxkBAAEDjuhhxnvWV-bqEtKhSa3GmIs7Ex3m6wAC6hIAAj2DIEokMIuRGWyCiiME
-- type: sticker
-  name: Copium
-  id: CAACAgIAAxkBAAEDju5hxnveuLCqLt1uJ7aND1LruIPIQQACQxIAAmqZIUrQsI0tbQiggiME
-- type: sticker
-  name: Bedge
-  id: CAACAgIAAxkBAAEDjuphxnvZOMw0hbE_huv5AYHxzgNk3wACBRUAAi8eKUoy98UKzxKM0SME
-- type: sticker
-  name: Wokege
-  id: CAACAgIAAxkBAAEDjuxhxnvbYZVzJn8WdskUwr05txCV3QACzREAAlBPIEqsGAVMiKsdCSME
+- provider: betterttv
+  triggers: 
+  - EGIUM
+  content: 6079d65239b5010444d00966
 
+- provider: twitch
+  triggers: 
+  - WAYTOODERP
+  content: f9b53a6e12d041da9593a19da4bab9ca
+
+- provider: betterttv
+  triggers: 
+  - GlitchLurk
+  content: 5da60bc688078c4ac515dda0
+
+- provider: betterttv
+  triggers: 
+  - puking
+  content: 5eb1340650eb4f058b85841a
+
+- provider: betterttv
+  triggers: 
+  - forsenRage
+  content: 5f1158e973e8e20538d8376f
+
+- provider: sticker
+  triggers: 
+  - VanishMe
+  content: CAACAgIAAxkBAAECf0Bg2mzkUBjbqQIaWAm_E7s4WbJrVAACSQIAAladvQoqlwydCFMhDiAE
+
+- provider: sticker
+  triggers: 
+  - Flushed
+  content: CAACAgEAAxkBAAECf0Jg2mz0cf3IN767CuzLGdniRD_VcgAC0QcAAuN4BAABNof1qTuyYVMgBA
+
+- provider: betterttv
+  triggers: 
+  - peepoKotleta
+  content: 5f241d1c65fe924464eef109
+
+- provider: betterttv
+  triggers: 
+  - lurkingChat
+  content: 5f250957cf6d2144653dbe7d
+
+- provider: sticker
+  triggers: 
+  - peepoSad
+  content: CAACAgEAAxkBAAECf0Rg2m0QaZTwINOAaa9SkIIQTI8sNAACdAgAAuN4BAABuKBtpCF8NTcgBA
+
+- provider: sticker
+  triggers: 
+  - peepoSad
+  content: CAACAgIAAxkBAAECf0Zg2m1Fo57TFHcFuK2Hd6yyklEo1QACSwADtEzqKHFq7ISbfBXoIAQ
+
+- provider: sticker
+  triggers: 
+  - Pooshka
+  content: CAACAgIAAxkBAAECf75g2nqAATrnUIMiDpP35OcC_tnDeAACZA4AAjFw2UoFnmC5crNFQCAE
+
+- provider: sticker
+  triggers: 
+  - peepoHey
+  content: CAACAgEAAxkBAAECf0pg2m1eVEIVswSGW23R4iaW1WX5twAC_QADhUKZRiNLipodJeHTIAQ
+
+- provider: sticker
+  triggers: 
+  - peepoShy
+  content: CAACAgQAAxkBAAECf0xg2m1xHC9al1ob5rr2p_B23V2hKQACUgEAAqghIQa9sh9fx49NrCAE
+
+- provider: betterttv
+  triggers: 
+  - PETTHEDERP
+  content: 5f28170d65fe924464ef2c4e
+
+- provider: sticker
+  triggers: 
+  - Angry
+  content: CAACAgQAAxkBAAECf0xg2m1xHC9al1ob5rr2p_B23V2hKQACUgEAAqghIQa9sh9fx49NrCAE
+
+- provider: betterttv
+  triggers: 
+  - PETTHEPOOSHKA
+  content: 5f2d634865fe924464ef7cca
+
+- provider: betterttv
+  triggers: 
+  - pepeChat
+  content: 5f47e8acb2efd65d77e8f18d
+
+- provider: betterttv
+  triggers: 
+  - pwgoodChat
+  content: 5f4cd96b6084af6c171934f1
+
+- provider: sticker
+  triggers: 
+  - Prikol
+  content: CAACAgEAAxkBAAECf1Bg2m4--lNCzSdNjg05CC8jSMetmgACoAgAAuN4BAABhkQLrwR1OAogBA
+
+- provider: betterttv
+  triggers: 
+  - peepoEvil
+  content: 5f4e9adf0b77be6bfcacdaa3
+
+- provider: betterttv
+  triggers: 
+  - Trefis
+  content: 5f5b872caa6fe06bfb603cfe
+
+- provider: betterttv
+  triggers: 
+  - AlienPls2
+  content: 5f5e23c13769246c0321af5a
+
+- provider: betterttv
+  triggers: 
+  - Unless
+  content: 5f8169552bd46e4a86b12a0d
+
+- provider: betterttv
+  triggers: 
+  - EtoMozhnoNapisatBukvami
+  content: 5f81d979e9c9344a8f35717d
+
+- provider: betterttv
+  triggers: 
+  - peepoKittyHug
+  content: 5f95e836473f4802fe47c57a
+
+- provider: sticker
+  triggers: 
+  - Cool
+  content: CAACAgEAAxkBAAECf1Jg2m5OGCcqF2m6bNRzbETl8IXz9QACjAgAAuN4BAABFjztRpu5erogBA
+
+- provider: betterttv
+  triggers: 
+  - Leave
+  content: 5fa97c012d853564472cfac1
+
+- provider: betterttv
+  triggers: 
+  - peepoLeave
+  content: 5fa984f3eca18f6455c2bb0a
+
+- provider: sticker
+  triggers: 
+  - Where
+  content: CAACAgEAAxkBAAECf1Rg2m5hxdnNt8QLXgZebDaDyJP_HwACwwgAAuN4BAABPmG4Oq4pcnsgBA
+
+- provider: betterttv
+  triggers: 
+  - lizardJAM
+  content: 6022965c609f1c336ffe54ef
+
+- provider: betterttv
+  triggers: 
+  - jamCAT
+  content: 606bd475fba15a03df2c8fec
+
+- provider: sticker
+  triggers: 
+  - Actually
+  content: CAACAgEAAxkBAAECf1Zg2m5x610gHRvCJ3KoWPl_RLKysgACLwEAAtnAWEUCsgvNZyDitCAE
+
+- provider: sticker
+  triggers: 
+  - Hmm
+  content: CAACAgIAAxkBAAECfy5g2lrvhdTElBElhA7_pKMmLJ-0OQAC9AADohXiCZ4uAAE1LSjfAyAE
+
+- provider: sticker
+  triggers: 
+  - Rilaveon
+  content: CAACAgIAAxkBAAECfzNg2mcJiy44EkcGtTAXbVKV3ptZRQACUwMAArVx2gbtH-L5lSdj5CAE
+
+- provider: betterttv
+  triggers: 
+  - Clap
+  content: 55b6f480e66682f576dd94f5
+
+- provider: betterttv
+  triggers: 
+  - CrabPls
+  content: 5c2a4ddda402f16774559abe
+
+- provider: betterttv
+  triggers: 
+  - PepeS
+  content: 59420c88023a013b50774872
+
+- provider: betterttv
+  triggers: 
+  - HYPERCLAP
+  content: 5b35ca08392c604c5fd81874
+
+- provider: betterttv
+  triggers: 
+  - KKool
+  content: 56c2cff2d9ec6bf744247bf1
+
+- provider: betterttv
+  triggers: 
+  - forsenPls
+  content: 55e2096ea6fa8b261f81b12a
+
+- provider: betterttv
+  triggers: 
+  - TriKool
+  content: 59a6d3dedccaf930aa8f3de1
+
+- provider: betterttv
+  triggers: 
+  - nymnCorn
+  content: 56cb56f5500cb4cf51e25b90
+
+- provider: betterttv
+  triggers: 
+  - EatPoo
+  content: 5903aeee981c75232793894d
+
+- provider: betterttv
+  triggers: 
+  - GachiPls
+  content: 58868aa5afc2ff756c3f495e
+
+- provider: betterttv
+  triggers: 
+  - HACKERMANS
+  content: 5b490e73cf46791f8491f6f4
+
+- provider: betterttv
+  triggers: 
+  - PotatoTriggered
+  content: 5b9eea402e04a1152331ac68
+
+- provider: betterttv
+  triggers: 
+  - gachiHYPER
+  content: 59143b496996b360ff9b807c
+
+- provider: betterttv
+  triggers: 
+  - billyReady
+  content: 58763fcecb2b7248f8b9b0cf
+
+- provider: betterttv
+  triggers: 
+  - monkaTOS
+  content: 5a7fd054b694db72eac253f4
+
+- provider: betterttv
+  triggers: 
+  - GuitarTime
+  content: 576befd71f520d6039622f7e
+
+- provider: betterttv
+  triggers: 
+  - pepeJAMJAM
+  content: 5c36fba2c6888455faa2e29f
+
+- provider: betterttv
+  triggers: 
+  - HYPERJAM
+  content: 5c16fe9c5d8b2f53da70838a
+
+- provider: betterttv
+  triggers: 
+  - forsenDiscoSnake
+  content: 5a8314b61686393232d31027
+
+- provider: betterttv
+  triggers: 
+  - forsenSWA
+  content: 571647c4793a158658202e2e
+
+- provider: betterttv
+  triggers: 
+  - gachiHop
+  content: 571e5ae5ef2b92040a9682c7
+
+- provider: betterttv
+  triggers: 
+  - hackerCD
+  content: 5d82600ec0652668c9e4e2f2
+
+- provider: betterttv
+  triggers: 
+  - BLELELE
+  content: 583eb50550222f7f1086e012
+
+- provider: betterttv
+  triggers: 
+  - monkaEXTREME
+  content: 5b8a9c6f80c14b0422a7b2a0
+
+- provider: betterttv
+  triggers: 
+  - ppHopper
+  content: 5b0da25016252035ad06900e
+
+- provider: betterttv
+  triggers: 
+  - ppHop
+  content: 5a9578d6dcf3205f57ba294f
+
+- provider: betterttv
+  triggers: 
+  - ppOverheat
+  content: 5b3e953a2c8a38720760c7f7
+
+- provider: betterttv
+  triggers: 
+  - gachiBASS
+  content: 57719a9a6bdecd592c3ad59b
+
+- provider: betterttv
+  triggers: 
+  - TriYoink
+  content: 5e235a25bca2995f13fbb373
+
+- provider: betterttv
+  triggers: 
+  - peepoBed
+  content: 5e45cbd4751afe7d553db6a0
+
+- provider: betterttv
+  triggers: 
+  - RickPls
+  content: 55a16413bcf69555414360f2
+
+- provider: betterttv
+  triggers: 
+  - PianoTime
+  content: 5b4d2e45b7b52c3958c8f5cf
+
+- provider: betterttv
+  triggers: 
+  - peepoGiggle
+  content: 5e1eb57cbca2995f13fb7ce7
+
+- provider: betterttv
+  triggers: 
+  - AweeWoo
+  content: 5cb66b07c739ce7eb6e86dd1
+
+- provider: betterttv
+  triggers: 
+  - Tasty
+  content: 5e830c3a269f8409604a06f9
+
+- provider: betterttv
+  triggers: 
+  - wtfChat
+  content: 5ea2017dd023b362f638f858
+
+- provider: betterttv
+  triggers: 
+  - StreamerDoesntKnow
+  content: 5e7cdc1d6d485d372b29e733
+
+- provider: betterttv
+  triggers: 
+  - PETTHEPEEPO
+  content: 5ec059009af1ea16863b2dec
+
+- provider: betterttv
+  triggers: 
+  - CatType
+  content: 5eb5f69ff0fb3f168c4ac934
+
+- provider: betterttv
+  triggers: 
+  - peepoShut
+  content: 5e12e38d3267f72103fd6b15
+
+- provider: betterttv
+  triggers: 
+  - forsenCoomer
+  content: 5ec7287010aaa55e294663dc
+
+- provider: betterttv
+  triggers: 
+  - AlienPls
+  content: 5e9d8af27e090362f8b0ce95
+
+- provider: betterttv
+  triggers: 
+  - kekBomb
+  content: 5d622332375afb1da9a68154
+
+- provider: betterttv
+  triggers: 
+  - WAYTOOSMART
+  content: 5e1ab7e088e62a5f14dc534d
+
+- provider: betterttv
+  triggers: 
+  - FastMineTime
+  content: 5ed0576a924aa35e32a635a0
+
+- provider: betterttv
+  triggers: 
+  - docPls
+  content: 5e2eaabeb1d0ac51e8ece290
+
+- provider: betterttv
+  triggers: 
+  - monkaE
+  content: 5e10fd8c3267f72103fd4f25
+
+- provider: betterttv
+  triggers: 
+  - forsenParty
+  content: 5f22a6cefe85fb4472d1a75f
+
+- provider: betterttv
+  triggers: 
+  - HELLO
+  content: 5fb049ed2d853564472d7450
+
+- provider: betterttv
+  triggers: 
+  - DinkDonk
+  content: 5f898862473f4802fe4703a6
+
+- provider: betterttv
+  triggers: 
+  - NOOOO
+  content: 5fc7d1f78c4e2c46195cbf2e
+
+- provider: betterttv
+  triggers: 
+  - popCat
+  content: 5fa8f232eca18f6455c2b2e1
+
+- provider: betterttv
+  triggers: 
+  - monkaCat
+  content: 5f9be415473f4802fe482637
+
+- provider: betterttv
+  triggers: 
+  - peepoPooPoo
+  content: 5fc60bd1cbd462462d55eeb6
+
+- provider: betterttv
+  triggers: 
+  - pepeW
+  content: 5f5cf1893769246c03219e91
+
+- provider: betterttv
+  triggers: 
+  - NOIDONTTHINKSO
+  content: 5f10cdc819a5bd0524ecc8f7
+
+- provider: betterttv
+  triggers: 
+  - peepoArrive
+  content: 5fff6af9a637883149c82341
+
+- provider: betterttv
+  triggers: 
+  - peepoWeirdLeave
+  content: 5df11386e7df1277b6070304
+
+- provider: betterttv
+  triggers: 
+  - catKISS
+  content: 5f455410b2efd65d77e8cb14
+
+- provider: betterttv
+  triggers: 
+  - WeirdChamping
+  content: 5fccf1699d35484633453e68
+
+- provider: betterttv
+  triggers: 
+  - sadCat
+  content: 5e116a78b640b52102c64372
+
+- provider: betterttv
+  triggers: 
+  - peepoOD
+  content: 5e1901238af14b5f1b43785c
+
+- provider: betterttv
+  triggers: 
+  - peepoClap
+  content: 5d38aaa592fc550c2d5996b8
+
+- provider: betterttv
+  triggers: 
+  - ppCircle
+  content: 5b71c875f917661fecd1e14a
+
+- provider: betterttv
+  triggers: 
+  - docJAM
+  content: 5fb7e2a3c242076f1a04e9cb
+
+- provider: betterttv
+  triggers: 
+  - pepeSenora
+  content: 5db01c1e6fc9dd12cbaf12c9
+
+- provider: betterttv
+  triggers: 
+  - TeaTime
+  content: 601c49b8f5d29f65e86e6caa
+
+- provider: betterttv
+  triggers: 
+  - ppPoof
+  content: 5afe99e57724ae2706b27355
+
+- provider: betterttv
+  triggers: 
+  - ppFoop
+  content: 5c7e79ce298047130f9fb76f
+
+- provider: betterttv
+  triggers: 
+  - hyperWOW
+  content: 5cf69d7767398f2d6a1f9726
+
+- provider: betterttv
+  triggers: 
+  - Sadge
+  content: 5f8d8508473f4802fe473f58
+
+- provider: betterttv
+  triggers: 
+  - Kissahomie
+  content: 5ecee2f6924aa35e32a619b7
+
+- provider: betterttv
+  triggers: 
+  - pepeMeltdown
+  content: 5ba84271c9f0f66a9efc1c86
+
+- provider: sticker
+  triggers: 
+  - Yasno
+  content: CAACAgIAAxkBAAECf8Bg2n8zjUJTaFrqFJ5lr3o7s5KSVwACRgMAArVx2gbyolHjVhMwjCAE
+
+- provider: betterttv
+  triggers: 
+  - ppSpin
+  content: 5fab391542cf82644d875257
+
+- provider: betterttv
+  triggers: 
+  - modCheck
+  content: 602fed8aa94aaa6e662d8470
+
+- provider: betterttv
+  triggers: 
+  - KKatJAM
+  content: 5f3423c53212445d6fb3f3c4
+
+- provider: betterttv
+  triggers: 
+  - STARE
+  content: 605c60aa7493072efdeb4313
+
+- provider: betterttv
+  triggers: 
+  - ppClown
+  content: 5eb435b3813f92169355130c
+
+- provider: betterttv
+  triggers: 
+  - catJAM
+  content: 5f1b0186cf6d2144653d2970
+
+- provider: betterttv
+  triggers: 
+  - ppJAM
+  content: 5ce6e1d031373227cbbd88c9
+
+- provider: betterttv
+  triggers: 
+  - Shulker
+  content: 6053e4be306b602acc59f8de
+
+- provider: betterttv
+  triggers: 
+  - peepoChat
+  content: 5e1bd08688e62a5f14dc6316
+
+- provider: betterttv
+  triggers: 
+  - AlienPls3
+  content: 607d5f6639b5010444d022a0
+
+- provider: betterttv
+  triggers: 
+  - pepeD
+  content: 6073c41539b5010444cfd90c
+
+- provider: betterttv
+  triggers: 
+  - MODS
+  content: 60217cb4cc5c150246d90cd4
+
+- provider: betterttv
+  triggers: 
+  - headBang
+  content: 6047c3e7306b602acc599d48
+
+- provider: betterttv
+  triggers: 
+  - peepoTalk
+  content: 608f154f39b5010444d0a765
+
+- provider: betterttv
+  triggers: 
+  - VeryPog
+  content: 60ade6eaf8b3f62601c332dc
+
+- provider: betterttv
+  triggers: 
+  - OMEGALULiguess
+  content: 6034124c7c74605395f326c9
+
+- provider: betterttv
+  triggers: 
+  - AlienDance
+  content: 60b13dfcf8b3f62601c34b9f
+
+- provider: betterttv
+  triggers: 
+  - ppFall
+  content: 5faa04e34dfba164402986d2
+
+- provider: betterttv
+  triggers: 
+  - peepoRun
+  content: 5fd783abc158a13494c3d73a
+
+- provider: betterttv
+  triggers: 
+  - peepoRain
+  content: 60d1c57d8ed8b373e4217bee
+
+- provider: sticker
+  triggers: 
+  - peepoHappy
+  content: CAACAgIAAxkBAAECf1pg2nAu4ByMGv5adhxEp2aKsOyP6gACEAADtEzqKCZB_akgpMoxIAQ
+
+- provider: sticker
+  triggers: 
+  - peepoLove
+  content: CAACAgIAAxkBAAECf1xg2nBa8qIvwEJ2D4_VqVvD4eDVRQACFgADtEzqKGjtSQhHsjMgIAQ
+
+- provider: sticker
+  triggers: 
+  - peepoS
+  content: CAACAgIAAxkBAAECf15g2nCDVRgNytdA6Q9wYO8vVDH2jwACDQADtEzqKF1fyAABoR7O1CAE
+
+- provider: sticker
+  triggers: 
+  - 4Head
+  content: CAACAgIAAxkBAAEClg5g8WJwVIPe6BR50RLh5vQOez7-EAACNA4AAmzIkEuy73kbZrzJViAE
+
+- provider: sticker
+  triggers: 
+  - 4HEader
+  content: CAACAgIAAxkBAAEClhBg8WJz7q2qPu-36v2tHwiWxLTqQAACqw0AAsBPkEsKf0KbfATqMCAE
+
+- provider: sticker
+  triggers: 
+  - 4House
+  content: CAACAgIAAxkBAAEClhJg8WJ1-V8JYAmIptUTMTyg3-3MQQACbhEAAhGvkUslZvaJhvOCeSAE
+
+- provider: sticker
+  triggers: 
+  - forsenKek
+  content: CAACAgIAAxkBAAECf2Jg2nF1KDntwmLskkTUA46Ob5msKwAC3gEAAuN00hbiPoLl03BUpiAE
+
+- provider: sticker
+  triggers: 
+  - forsenScoots
+  content: CAACAgIAAxkBAAECf2Rg2nHI26zfgnmuhh3X8qDOEwH0nwACRQoAAqJk2EopmqwLNsFVFyAE
+
+- provider: sticker
+  triggers: 
+  - FeelsDonkMan
+  content: CAACAgIAAxkBAAECgWtg2zxnB96zi9TCG3Vo4m5M7NFRJAAC3gADohXiCfoE0_7CxaI8IAQ
+
+- provider: sticker
+  triggers: 
+  - Blyatge
+  content: CAACAgIAAxkBAAECf3Bg2nJhmRh7VgXlD3Rr_kR8rmBjrwACFhAAAumpkEpfiIIl3Q3y3SAE
+
+- provider: sticker
+  triggers: 
+  - Okayge
+  content: CAACAgIAAxkBAAECf3Jg2nJj8_pBmla6C-_Ztg2UtHimRgAC5A4AAmDNkUoUx2_CHcqw1yAE
+
+- provider: sticker
+  triggers: 
+  - YEP
+  content: CAACAgIAAxkBAAECf3Jg2nJj8_pBmla6C-_Ztg2UtHimRgAC5A4AAmDNkUoUx2_CHcqw1yAE
+
+- provider: sticker
+  triggers: 
+  - trefisChad
+  content: CAACAgIAAxkBAAECf2xg2nJC2y38nJvNNgxM4Ce5FUWDPQAC8QADohXiCTyVB883JS-zIAQ
+
+- provider: sticker
+  triggers: 
+  - OMEGALUL
+  content: CAACAgIAAxkBAAECf3Zg2nL0dUp9iQGS4nt69Ig2FrLNkwAClhQAAi7q0Uow-bc9A0ql8CAE
+
+- provider: sticker
+  triggers: 
+  - forsenWhat
+  content: CAACAgIAAxkBAAECf3hg2nMJV6xQBoZxxvgcR4jpMm0PMAACEQ0AAsq42EqDGjP5RuKDxyAE
+
+- provider: sticker
+  triggers: 
+  - peepoWTF
+  content: CAACAgIAAxkBAAECf3pg2nMc79xN0eK34hjyO4Hl5UY7MQACDgADtEzqKAfUAwMOZO9EIAQ
+
+- provider: sticker
+  triggers: 
+  - pepeLaugh
+  content: CAACAgIAAxkBAAECf3xg2nMomV0CfSZMi-7H9ZjxZ0Ym5AACgA0AAmtugUoegJ8cAAGAti0gBA
+
+- provider: sticker
+  triggers: 
+  - HandsUp
+  content: CAACAgIAAxkBAAECf4Zg2nSQugABkIXL-pDdaKZVkoI38zIAAuMMAAJ4edhKUYW_OXAyr38gBA
+
+- provider: sticker
+  triggers: 
+  - KKomrade
+  content: CAACAgIAAxkBAAECf4hg2nSdRZlASoLBNVZJL4lR4UqAbwACDxEAAv8c0UrkommFAtOhbyAE
+
+- provider: sticker
+  triggers: 
+  - peepoIgnore
+  content: CAACAgIAAxkBAAECf4pg2nS3_cnrg1-dAiq6vXQBOWwfTwACPAADtEzqKHELmhPmDz-fIAQ
+
+- provider: sticker
+  triggers: 
+  - Pepepains
+  content: CAACAgIAAxkBAAECf4xg2nTNmvJdJim3rFtx3wABvYqt52gAAqQNAAJgitlKnaL5hcQnI6ogBA
+
+- provider: sticker
+  triggers: 
+  - PepoThink
+  content: CAACAgIAAxkBAAECf45g2nTcLwqNbMS33YUg-4hMPx7TdQACWBIAAohO0EqzRjI7n8VmViAE
+
+- provider: sticker
+  triggers: 
+  - eShrug
+  content: CAACAgIAAxkBAAECf4Jg2nPZgDy7Dzv28E78mLf5bwABOmUAAuwLAALJTnhK4Sk6SoxlhjogBA
+
+- provider: sticker
+  triggers: 
+  - peepoDown
+  content: CAACAgIAAxkBAAECf5Bg2nT0HgZjRBJ797spMWpIqARZrgACMwADtEzqKFMT0AFgaraZIAQ
+
+- provider: sticker
+  triggers: 
+  - forsenCD
+  content: CAACAgIAAxkBAAECf4Rg2nR_MHR--UPL-u0sO4ywroVW2AAC3AADohXiCeGUISZePNPVIAQ
+
+- provider: sticker
+  triggers: 
+  - monkaOMEGA
+  content: CAACAgIAAxkBAAEClldg8YM94HvPwHQf2zJdKsCbDagd2wAC1gwAAumY-Uotx4H9f2Aw2SAE
+
+- provider: sticker
+  triggers: 
+  - forsenHead
+  content: CAACAgIAAxkBAAECf5Rg2nVgSDAhXZOLlYUTlcXFUvqEpgACuw4AAh-G0UrcEpz90CZM8SAE
+
+- provider: sticker
+  triggers: 
+  - widepeepoHappy
+  content: CAACAgIAAxkBAAECf5Zg2nVvyEhzF7eoGz-Qgmnz-56b3QACYgADtEzqKA4S-C1GEmhPIAQ
+
+- provider: sticker
+  triggers: 
+  - widepeepoSad
+  content: CAACAgIAAxkBAAECf5hg2nV23wEmHKn-0_ec0LB3A4LmCAACYQADtEzqKHaFdfXcurxkIAQ
+
+- provider: sticker
+  triggers: 
+  - MMmmm
+  content: CAACAgIAAxkBAAECf5pg2nWvqFGTf-d8RQHnInh2amGeDgACxw8AAqTb0UqKSNqg2D1ppiAE
+
+- provider: sticker
+  triggers: 
+  - Gigachad
+  content: CAACAgIAAxkBAAECf5xg2nW61GmXm4m8Nlr_Q3jAD-m3uwACIAwAAr9NgEr6Tp3w_wOAHiAE
+
+- provider: sticker
+  triggers: 
+  - PogChamp
+  content: CAACAgIAAxkBAAECf55g2nXHZzkY4kyHRcvAZD0H89PxlQAC7wADohXiCVS3c7bL00JLIAQ
+
+- provider: sticker
+  triggers: 
+  - Okey
+  content: CAACAgIAAxkBAAECf6Bg2nXf6XxOdHiK2yGmK6xN_HjJuwACuAoAAkyTgEoJVFRJie4dJCAE
+
+- provider: sticker
+  triggers: 
+  - Kapp
+  content: CAACAgIAAxkBAAECf6Jg2na6xAXsXZYLS2lgTFRoPkNwxQACbw0AAu3i2Eq-SXtsOd4xeCAE
+
+- provider: sticker
+  triggers: 
+  - peepoFriendship
+  content: CAACAgIAAxkBAAECf6Rg2nbF8ZCK6cvylH1-kfLoGLxY-AACOQADtEzqKIbJsklTfFP4IAQ
+
+- provider: sticker
+  triggers: 
+  - FeelsWeirdMan
+  content: CAACAgIAAxkBAAECf7xg2njolTluSox4kZyoHFLqHgPJIQACbhAAAqF_0UrAz0FQDn-VCyAE
+
+- provider: sticker
+  triggers: 
+  - gachiGASM
+  content: CAACAgIAAxkBAAECf6Zg2nfjL6Fyu7lH0aNFJ4dAA2IAAcgAAsAQAAIQ09hKMy8sfTiQxpEgBA
+
+- provider: sticker
+  triggers: 
+  - monkaLaugh
+  content: CAACAgIAAxkBAAECf6xg2ngqdeQNKUx73rTqk7nmwta6TAAC-AADohXiCWrWrXHFxO7lIAQ
+
+- provider: sticker
+  triggers: 
+  - FeelsDankMan
+  content: CAACAgIAAxkBAAECf6pg2ngdy0XaDob1wntupgdvHcp1SQAC3QADohXiCfziaKlLMGoMIAQ
+
+- provider: sticker
+  triggers: 
+  - Maaaaan
+  content: CAACAgIAAxkBAAECf6hg2ngPFKOzlxXxy-QrY0qW2TjD5QACJAoAAv9-2En8TV0BFMH88SAE
+
+- provider: sticker
+  triggers: 
+  - FeelsStrongMan
+  content: CAACAgIAAxkBAAECf65g2ng50HilzJWYhBJmMyey6o_KiwACxgsAAoKImEqO9-Zy1yecrSAE
+
+- provider: sticker
+  triggers: 
+  - PepeA
+  content: CAACAgIAAxkBAAECf7Bg2nhD419Nark6Enb7oIBF4ygcxgAC8wADohXiCbd1UA2JDlo_IAQ
+
+- provider: sticker
+  triggers: 
+  - PagChomp
+  content: CAACAgIAAxkBAAECf7Jg2nhME3RJg393g4xQ8IZAJl0rPAACww0AAp5deUqNaZC3CuT6bSAE
+
+- provider: sticker
+  triggers: 
+  - BASED
+  content: CAACAgIAAxkBAAECf7Rg2nhV-dqMWmxEn9luXSWsZgtzxAAC2gADohXiCXjX5FrfpFBYIAQ
+
+- provider: sticker
+  triggers: 
+  - Okayeg
+  content: CAACAgIAAxkBAAECf7Zg2nhjxe98mH-yTHxvSUk6POVW6AACbhAAAp15kEo4rjWGsB5quyAE
+
+- provider: sticker
+  triggers: 
+  - forsenSmug
+  content: CAACAgIAAxkBAAECf7hg2ni29A0d1lSI1mm9ENhfgsmP4QACoxAAAgnF0EqJPDzXvJbnbyAE
+
+- provider: sticker
+  triggers: 
+  - pwgoodAAA
+  content: CAACAgIAAxkBAAECgBxg2v-knv-e3AfNWBsk87xWX1TTZgACegADQu1-HfRHtWq5cNxpIAQ
+
+- provider: sticker
+  triggers: 
+  - Spravedlivo
+  content: CAACAgIAAxkBAAECgB5g2v_9m6tWlYBROXVIFWUC40QywAACVAADuRtZC2dCUqTSakgJIAQ
+
+- provider: sticker
+  triggers: 
+  - KekeHands
+  content: CAACAgIAAxkBAAEChCJg3gEn1SNgP6t--X5lt8jApxqCHAACbBIAAqeU8UpN4slug_7-SiAE
+
+- provider: sticker
+  triggers: 
+  - PagMan
+  content: CAACAgIAAxkBAAEChFpg3pb-lPJnkwqMFtwIJFaS56f6lAAC5gADohXiCe3OLO1UCPqDIAQ
+
+- provider: sticker
+  triggers: 
+  - PogChamp
+  content: CAACAgIAAxkBAAEChFxg3pdbkYHtBcFtbBukGA21S_qnxwAC-QADohXiCd3RQyeE4hBvIAQ
+
+- provider: sticker
+  triggers: 
+  - KomodoHype
+  content: CAACAgIAAxkBAAEChFxg3pdbkYHtBcFtbBukGA21S_qnxwAC-QADohXiCd3RQyeE4hBvIAQ
+
+- provider: sticker
+  triggers: 
+  - PogChamp
+  content: CAACAgIAAxkBAAEChFxg3pdbkYHtBcFtbBukGA21S_qnxwAC-QADohXiCd3RQyeE4hBvIAQ
+
+- provider: sticker
+  triggers: 
+  - PauseChamp
+  content: CAACAgIAAxkBAAEChF5g3peLQIZ5JB48tnSWZRFD5LFRjQAC6QADohXiCaOBHx98dvrQIAQ
+
+- provider: sticker
+  triggers: 
+  - PauseChamp
+  content: CAACAgIAAxkBAAEChF9g3peMkxtLT-ISU9zAd4Ggi9qLwQAC6wADohXiCdOKYNEdRC2KIAQ
+
+- provider: sticker
+  triggers: 
+  - KEKG
+  content: CAACAgIAAxkBAAEChGJg3pe1TBYKNnG1QwYxOOWtqxFJ1gAC1gADohXiCYavZfHBaFuDIAQ
+
+- provider: sticker
+  triggers: 
+  - FeelsGoodMan
+  content: CAACAgIAAxkBAAEChGZg3pfm1WRCdKliHbBuy5ojbgb1jAAC9wADohXiCXVncVtHX7aoIAQ
+
+- provider: sticker
+  triggers: 
+  - monkaUOMEGA
+  content: CAACAgIAAxkBAAEChGhg3phevn1Vhu01RgWZkdox04MmVAAC1QgAAgP-gUpEXl2khbOczCAE
+
+- provider: sticker
+  triggers: 
+  - PagChomp
+  content: CAACAgIAAxkBAAEChGpg3phxr7UFBkCXnpr-k6k_FiUZrgAC7QADohXiCeBBKRont-GKIAQ
+
+- provider: sticker
+  triggers: 
+  - PissedChamp
+  content: CAACAgIAAxkBAAEChGxg3piJ8bCI-J-MhAg_T2Q2UZaflwAC8AADohXiCd4eCrt5bebuIAQ
+
+- provider: sticker
+  triggers: 
+  - 2020Suspicious
+  content: CAACAgIAAxkBAAEChG5g3pii-8P2nxLWUodvODTibk6e2QAC9gADohXiCeZakD1jt-gcIAQ
+
+- provider: sticker
+  triggers: 
+  - 2020Suspicious
+  content: CAACAgIAAxkBAAEChG5g3pii-8P2nxLWUodvODTibk6e2QAC9gADohXiCeZakD1jt-gcIAQ
+
+- provider: sticker
+  triggers: 
+  - 5Chomp
+  content: CAACAgIAAxkBAAEChHJg3pjaKOPDSls8Q6pMiF2Z6LaToAAC7gADohXiCWJFvf-aYcHBIAQ
+
+- provider: sticker
+  triggers: 
+  - Sadge
+  content: CAACAgIAAxkBAAEChHRg3pj4Fy_rJr7Ounddj95CCDR5GAAC9QADohXiCScoB3N93eNFIAQ
+
+- provider: sticker
+  triggers: 
+  - KEKWait
+  content: CAACAgIAAxkBAAEChHhg3plooycypEM2ct-X2D7Wg9ZCrQAC4wADohXiCeOVydGKqnEeIAQ
+
+- provider: sticker
+  triggers: 
+  - LOLE
+  content: CAACAgIAAxkBAAEChHlg3ploE74IvspbePmlPwxDkMHvSgAC5AADohXiCYpBdLjzfaN5IAQ
+
+- provider: sticker
+  triggers: 
+  - KEKVV
+  content: CAACAgIAAxkBAAEChHpg3plprdRF8XEwdDkbWh4vMJTXPQAC5QADohXiCUv77ZiSPizSIAQ
+
+- provider: sticker
+  triggers: 
+  - hpbLgbt
+  content: CAACAgIAAxkBAAEChIRg3pnmNZ4o_6lepBLdfF6X2p9oWgAC6AADohXiCVhGCLfuk64QIAQ
+
+- provider: sticker
+  triggers: 
+  - PepoG
+  content: CAACAgIAAxkBAAEChItg3rYFQUxHSFHxKH2j8VsZO0kFrgACsgwAAoBV8UpFNdnICB6msCAE
+
+- provider: sticker
+  triggers: 
+  - forsenBased
+  content: CAACAgIAAxkBAAEChMZg3sxhe3gGQjIrs2wELSAkmo_HKQACrg0AAgGY-ErScIly2ZdHJiAE
+
+- provider: sticker
+  triggers: 
+  - MEGALUL
+  content: CAACAgIAAxkBAAECiWtg40Kx9tD2vk51dMV8VYlwtK8zMQACZA4AAjFw2UoFnmC5crNFQCAE
+
+- provider: sticker
+  triggers: 
+  - BatChest
+  content: CAACAgIAAxkBAAECqExhAu4jrLmRRCsvSkmuZyTRlr4rzQAC5Q8AAhhkGEiE_CXKkBCQZCAE
+
+- provider: sticker
+  triggers: 
+  - CoolCat
+  content: CAACAgIAAxkBAAECqE5hAu6YRKAbjfnFXQ5auSPVZ7Ez5wACyg4AAlQFGUhLH9hCNOX2YCAE
+
+- provider: sticker
+  triggers: 
+  - KEKW
+  content: CAACAgIAAxkBAAECskJhDMcWHP6o2FY0rAAB8-glknhjCVcAAu4QAALO9GBIriF1V47XM8EgBA
+
+- provider: sticker
+  triggers: 
+  - pwgoodWeird
+  content: CAACAgIAAxkBAAEC9mdhUAuIN59FIhkKD59HOeCLTk1VRgACtAsAAopJgEqsxE7MIzWWEiEE
+
+- provider: sticker
+  triggers: 
+  - Chainik
+  content: CAACAgIAAxkBAAEC-JRhUbeBD2UgEwpB41AvxOazvh_VLAACGREAApzxkUqF3mcDGkGOniEE
+
+- provider: sticker
+  triggers: 
+  - EtoKomu
+  content: CAACAgIAAxkBAAEC_OFhVJmsux3fZZxlImYO3b6Qv3v8QwACYhIAAldEoUqcWPao0dKrXiEE
+
+- provider: sticker
+  triggers: 
+  - BOGGED
+  content: CAACAgIAAxkBAAEDg4Fhvd3elOC6SybJdhUoVKqBHrCAVQAC-RIAAsah8UnkX3963bzARyME
+
+- provider: sticker
+  triggers: 
+  - Clueless
+  content: CAACAgIAAxkBAAEDjuhhxnvWV-bqEtKhSa3GmIs7Ex3m6wAC6hIAAj2DIEokMIuRGWyCiiME
+
+- provider: sticker
+  triggers: 
+  - Copium
+  content: CAACAgIAAxkBAAEDju5hxnveuLCqLt1uJ7aND1LruIPIQQACQxIAAmqZIUrQsI0tbQiggiME
+
+- provider: sticker
+  triggers: 
+  - Bedge
+  content: CAACAgIAAxkBAAEDjuphxnvZOMw0hbE_huv5AYHxzgNk3wACBRUAAi8eKUoy98UKzxKM0SME
+
+- provider: sticker
+  triggers: 
+  - Wokege
+  content: CAACAgIAAxkBAAEDjuxhxnvbYZVzJn8WdskUwr05txCV3QACzREAAlBPIEqsGAVMiKsdCSME
+  
