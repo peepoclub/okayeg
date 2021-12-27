@@ -23,12 +23,12 @@
   - forsenRage
   content: 5f1158e973e8e20538d8376f
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - VanishMe
   content: CAACAgIAAxkBAAECf0Bg2mzkUBjbqQIaWAm_E7s4WbJrVAACSQIAAladvQoqlwydCFMhDiAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - Flushed
   content: CAACAgEAAxkBAAECf0Jg2mz0cf3IN767CuzLGdniRD_VcgAC0QcAAuN4BAABNof1qTuyYVMgBA
@@ -43,27 +43,27 @@
   - lurkingChat
   content: 5f250957cf6d2144653dbe7d
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - peepoSad
   content: CAACAgEAAxkBAAECf0Rg2m0QaZTwINOAaa9SkIIQTI8sNAACdAgAAuN4BAABuKBtpCF8NTcgBA
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - peepoSad
   content: CAACAgIAAxkBAAECf0Zg2m1Fo57TFHcFuK2Hd6yyklEo1QACSwADtEzqKHFq7ISbfBXoIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - Pooshka
   content: CAACAgIAAxkBAAECf75g2nqAATrnUIMiDpP35OcC_tnDeAACZA4AAjFw2UoFnmC5crNFQCAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - peepoHey
   content: CAACAgEAAxkBAAECf0pg2m1eVEIVswSGW23R4iaW1WX5twAC_QADhUKZRiNLipodJeHTIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - peepoShy
   content: CAACAgQAAxkBAAECf0xg2m1xHC9al1ob5rr2p_B23V2hKQACUgEAAqghIQa9sh9fx49NrCAE
@@ -73,7 +73,7 @@
   - PETTHEDERP
   content: 5f28170d65fe924464ef2c4e
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - Angry
   content: CAACAgQAAxkBAAECf0xg2m1xHC9al1ob5rr2p_B23V2hKQACUgEAAqghIQa9sh9fx49NrCAE
@@ -93,7 +93,7 @@
   - pwgoodChat
   content: 5f4cd96b6084af6c171934f1
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - Prikol
   content: CAACAgEAAxkBAAECf1Bg2m4--lNCzSdNjg05CC8jSMetmgACoAgAAuN4BAABhkQLrwR1OAogBA
@@ -128,7 +128,7 @@
   - peepoKittyHug
   content: 5f95e836473f4802fe47c57a
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - Cool
   content: CAACAgEAAxkBAAECf1Jg2m5OGCcqF2m6bNRzbETl8IXz9QACjAgAAuN4BAABFjztRpu5erogBA
@@ -143,7 +143,7 @@
   - peepoLeave
   content: 5fa984f3eca18f6455c2bb0a
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - Where
   content: CAACAgEAAxkBAAECf1Rg2m5hxdnNt8QLXgZebDaDyJP_HwACwwgAAuN4BAABPmG4Oq4pcnsgBA
@@ -158,17 +158,17 @@
   - jamCAT
   content: 606bd475fba15a03df2c8fec
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - Actually
   content: CAACAgEAAxkBAAECf1Zg2m5x610gHRvCJ3KoWPl_RLKysgACLwEAAtnAWEUCsgvNZyDitCAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - Hmm
   content: CAACAgIAAxkBAAECfy5g2lrvhdTElBElhA7_pKMmLJ-0OQAC9AADohXiCZ4uAAE1LSjfAyAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - Rilaveon
   content: CAACAgIAAxkBAAECfzNg2mcJiy44EkcGtTAXbVKV3ptZRQACUwMAArVx2gbtH-L5lSdj5CAE
@@ -538,7 +538,7 @@
   - pepeMeltdown
   content: 5ba84271c9f0f66a9efc1c86
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - Yasno
   content: CAACAgIAAxkBAAECf8Bg2n8zjUJTaFrqFJ5lr3o7s5KSVwACRgMAArVx2gbyolHjVhMwjCAE
@@ -643,413 +643,418 @@
   - peepoRain
   content: 60d1c57d8ed8b373e4217bee
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - peepoHappy
   content: CAACAgIAAxkBAAECf1pg2nAu4ByMGv5adhxEp2aKsOyP6gACEAADtEzqKCZB_akgpMoxIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - peepoLove
   content: CAACAgIAAxkBAAECf1xg2nBa8qIvwEJ2D4_VqVvD4eDVRQACFgADtEzqKGjtSQhHsjMgIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - peepoS
   content: CAACAgIAAxkBAAECf15g2nCDVRgNytdA6Q9wYO8vVDH2jwACDQADtEzqKF1fyAABoR7O1CAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - 4Head
   content: CAACAgIAAxkBAAEClg5g8WJwVIPe6BR50RLh5vQOez7-EAACNA4AAmzIkEuy73kbZrzJViAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - 4HEader
   content: CAACAgIAAxkBAAEClhBg8WJz7q2qPu-36v2tHwiWxLTqQAACqw0AAsBPkEsKf0KbfATqMCAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - 4House
   content: CAACAgIAAxkBAAEClhJg8WJ1-V8JYAmIptUTMTyg3-3MQQACbhEAAhGvkUslZvaJhvOCeSAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - forsenKek
   content: CAACAgIAAxkBAAECf2Jg2nF1KDntwmLskkTUA46Ob5msKwAC3gEAAuN00hbiPoLl03BUpiAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - forsenScoots
   content: CAACAgIAAxkBAAECf2Rg2nHI26zfgnmuhh3X8qDOEwH0nwACRQoAAqJk2EopmqwLNsFVFyAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - FeelsDonkMan
   content: CAACAgIAAxkBAAECgWtg2zxnB96zi9TCG3Vo4m5M7NFRJAAC3gADohXiCfoE0_7CxaI8IAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - Blyatge
   content: CAACAgIAAxkBAAECf3Bg2nJhmRh7VgXlD3Rr_kR8rmBjrwACFhAAAumpkEpfiIIl3Q3y3SAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - Okayge
   content: CAACAgIAAxkBAAECf3Jg2nJj8_pBmla6C-_Ztg2UtHimRgAC5A4AAmDNkUoUx2_CHcqw1yAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - YEP
   content: CAACAgIAAxkBAAECf3Jg2nJj8_pBmla6C-_Ztg2UtHimRgAC5A4AAmDNkUoUx2_CHcqw1yAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - trefisChad
   content: CAACAgIAAxkBAAECf2xg2nJC2y38nJvNNgxM4Ce5FUWDPQAC8QADohXiCTyVB883JS-zIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - OMEGALUL
   content: CAACAgIAAxkBAAECf3Zg2nL0dUp9iQGS4nt69Ig2FrLNkwAClhQAAi7q0Uow-bc9A0ql8CAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - forsenWhat
   content: CAACAgIAAxkBAAECf3hg2nMJV6xQBoZxxvgcR4jpMm0PMAACEQ0AAsq42EqDGjP5RuKDxyAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - peepoWTF
   content: CAACAgIAAxkBAAECf3pg2nMc79xN0eK34hjyO4Hl5UY7MQACDgADtEzqKAfUAwMOZO9EIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - pepeLaugh
   content: CAACAgIAAxkBAAECf3xg2nMomV0CfSZMi-7H9ZjxZ0Ym5AACgA0AAmtugUoegJ8cAAGAti0gBA
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - HandsUp
   content: CAACAgIAAxkBAAECf4Zg2nSQugABkIXL-pDdaKZVkoI38zIAAuMMAAJ4edhKUYW_OXAyr38gBA
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - KKomrade
   content: CAACAgIAAxkBAAECf4hg2nSdRZlASoLBNVZJL4lR4UqAbwACDxEAAv8c0UrkommFAtOhbyAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - peepoIgnore
   content: CAACAgIAAxkBAAECf4pg2nS3_cnrg1-dAiq6vXQBOWwfTwACPAADtEzqKHELmhPmDz-fIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - Pepepains
   content: CAACAgIAAxkBAAECf4xg2nTNmvJdJim3rFtx3wABvYqt52gAAqQNAAJgitlKnaL5hcQnI6ogBA
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - PepoThink
   content: CAACAgIAAxkBAAECf45g2nTcLwqNbMS33YUg-4hMPx7TdQACWBIAAohO0EqzRjI7n8VmViAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - eShrug
   content: CAACAgIAAxkBAAECf4Jg2nPZgDy7Dzv28E78mLf5bwABOmUAAuwLAALJTnhK4Sk6SoxlhjogBA
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - peepoDown
   content: CAACAgIAAxkBAAECf5Bg2nT0HgZjRBJ797spMWpIqARZrgACMwADtEzqKFMT0AFgaraZIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - forsenCD
   content: CAACAgIAAxkBAAECf4Rg2nR_MHR--UPL-u0sO4ywroVW2AAC3AADohXiCeGUISZePNPVIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - monkaOMEGA
   content: CAACAgIAAxkBAAEClldg8YM94HvPwHQf2zJdKsCbDagd2wAC1gwAAumY-Uotx4H9f2Aw2SAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - forsenHead
   content: CAACAgIAAxkBAAECf5Rg2nVgSDAhXZOLlYUTlcXFUvqEpgACuw4AAh-G0UrcEpz90CZM8SAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - widepeepoHappy
   content: CAACAgIAAxkBAAECf5Zg2nVvyEhzF7eoGz-Qgmnz-56b3QACYgADtEzqKA4S-C1GEmhPIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - widepeepoSad
   content: CAACAgIAAxkBAAECf5hg2nV23wEmHKn-0_ec0LB3A4LmCAACYQADtEzqKHaFdfXcurxkIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - MMmmm
   content: CAACAgIAAxkBAAECf5pg2nWvqFGTf-d8RQHnInh2amGeDgACxw8AAqTb0UqKSNqg2D1ppiAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - Gigachad
   content: CAACAgIAAxkBAAECf5xg2nW61GmXm4m8Nlr_Q3jAD-m3uwACIAwAAr9NgEr6Tp3w_wOAHiAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - PogChamp
   content: CAACAgIAAxkBAAECf55g2nXHZzkY4kyHRcvAZD0H89PxlQAC7wADohXiCVS3c7bL00JLIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - Okey
   content: CAACAgIAAxkBAAECf6Bg2nXf6XxOdHiK2yGmK6xN_HjJuwACuAoAAkyTgEoJVFRJie4dJCAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - Kapp
   content: CAACAgIAAxkBAAECf6Jg2na6xAXsXZYLS2lgTFRoPkNwxQACbw0AAu3i2Eq-SXtsOd4xeCAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - peepoFriendship
   content: CAACAgIAAxkBAAECf6Rg2nbF8ZCK6cvylH1-kfLoGLxY-AACOQADtEzqKIbJsklTfFP4IAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - FeelsWeirdMan
   content: CAACAgIAAxkBAAECf7xg2njolTluSox4kZyoHFLqHgPJIQACbhAAAqF_0UrAz0FQDn-VCyAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - gachiGASM
   content: CAACAgIAAxkBAAECf6Zg2nfjL6Fyu7lH0aNFJ4dAA2IAAcgAAsAQAAIQ09hKMy8sfTiQxpEgBA
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - monkaLaugh
   content: CAACAgIAAxkBAAECf6xg2ngqdeQNKUx73rTqk7nmwta6TAAC-AADohXiCWrWrXHFxO7lIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - FeelsDankMan
   content: CAACAgIAAxkBAAECf6pg2ngdy0XaDob1wntupgdvHcp1SQAC3QADohXiCfziaKlLMGoMIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - Maaaaan
   content: CAACAgIAAxkBAAECf6hg2ngPFKOzlxXxy-QrY0qW2TjD5QACJAoAAv9-2En8TV0BFMH88SAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - FeelsStrongMan
   content: CAACAgIAAxkBAAECf65g2ng50HilzJWYhBJmMyey6o_KiwACxgsAAoKImEqO9-Zy1yecrSAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - PepeA
   content: CAACAgIAAxkBAAECf7Bg2nhD419Nark6Enb7oIBF4ygcxgAC8wADohXiCbd1UA2JDlo_IAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - PagChomp
   content: CAACAgIAAxkBAAECf7Jg2nhME3RJg393g4xQ8IZAJl0rPAACww0AAp5deUqNaZC3CuT6bSAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - BASED
   content: CAACAgIAAxkBAAECf7Rg2nhV-dqMWmxEn9luXSWsZgtzxAAC2gADohXiCXjX5FrfpFBYIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - Okayeg
   content: CAACAgIAAxkBAAECf7Zg2nhjxe98mH-yTHxvSUk6POVW6AACbhAAAp15kEo4rjWGsB5quyAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - forsenSmug
   content: CAACAgIAAxkBAAECf7hg2ni29A0d1lSI1mm9ENhfgsmP4QACoxAAAgnF0EqJPDzXvJbnbyAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - pwgoodAAA
   content: CAACAgIAAxkBAAECgBxg2v-knv-e3AfNWBsk87xWX1TTZgACegADQu1-HfRHtWq5cNxpIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - Spravedlivo
   content: CAACAgIAAxkBAAECgB5g2v_9m6tWlYBROXVIFWUC40QywAACVAADuRtZC2dCUqTSakgJIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - KekeHands
   content: CAACAgIAAxkBAAEChCJg3gEn1SNgP6t--X5lt8jApxqCHAACbBIAAqeU8UpN4slug_7-SiAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - PagMan
   content: CAACAgIAAxkBAAEChFpg3pb-lPJnkwqMFtwIJFaS56f6lAAC5gADohXiCe3OLO1UCPqDIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - PogChamp
   content: CAACAgIAAxkBAAEChFxg3pdbkYHtBcFtbBukGA21S_qnxwAC-QADohXiCd3RQyeE4hBvIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - KomodoHype
   content: CAACAgIAAxkBAAEChFxg3pdbkYHtBcFtbBukGA21S_qnxwAC-QADohXiCd3RQyeE4hBvIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - PogChamp
   content: CAACAgIAAxkBAAEChFxg3pdbkYHtBcFtbBukGA21S_qnxwAC-QADohXiCd3RQyeE4hBvIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - PauseChamp
   content: CAACAgIAAxkBAAEChF5g3peLQIZ5JB48tnSWZRFD5LFRjQAC6QADohXiCaOBHx98dvrQIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - PauseChamp
   content: CAACAgIAAxkBAAEChF9g3peMkxtLT-ISU9zAd4Ggi9qLwQAC6wADohXiCdOKYNEdRC2KIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - KEKG
   content: CAACAgIAAxkBAAEChGJg3pe1TBYKNnG1QwYxOOWtqxFJ1gAC1gADohXiCYavZfHBaFuDIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - FeelsGoodMan
   content: CAACAgIAAxkBAAEChGZg3pfm1WRCdKliHbBuy5ojbgb1jAAC9wADohXiCXVncVtHX7aoIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - monkaUOMEGA
   content: CAACAgIAAxkBAAEChGhg3phevn1Vhu01RgWZkdox04MmVAAC1QgAAgP-gUpEXl2khbOczCAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - PagChomp
   content: CAACAgIAAxkBAAEChGpg3phxr7UFBkCXnpr-k6k_FiUZrgAC7QADohXiCeBBKRont-GKIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - PissedChamp
   content: CAACAgIAAxkBAAEChGxg3piJ8bCI-J-MhAg_T2Q2UZaflwAC8AADohXiCd4eCrt5bebuIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - 2020Suspicious
   content: CAACAgIAAxkBAAEChG5g3pii-8P2nxLWUodvODTibk6e2QAC9gADohXiCeZakD1jt-gcIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - 2020Suspicious
   content: CAACAgIAAxkBAAEChG5g3pii-8P2nxLWUodvODTibk6e2QAC9gADohXiCeZakD1jt-gcIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - 5Chomp
   content: CAACAgIAAxkBAAEChHJg3pjaKOPDSls8Q6pMiF2Z6LaToAAC7gADohXiCWJFvf-aYcHBIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - Sadge
   content: CAACAgIAAxkBAAEChHRg3pj4Fy_rJr7Ounddj95CCDR5GAAC9QADohXiCScoB3N93eNFIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - KEKWait
   content: CAACAgIAAxkBAAEChHhg3plooycypEM2ct-X2D7Wg9ZCrQAC4wADohXiCeOVydGKqnEeIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - LOLE
   content: CAACAgIAAxkBAAEChHlg3ploE74IvspbePmlPwxDkMHvSgAC5AADohXiCYpBdLjzfaN5IAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - KEKVV
   content: CAACAgIAAxkBAAEChHpg3plprdRF8XEwdDkbWh4vMJTXPQAC5QADohXiCUv77ZiSPizSIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - hpbLgbt
   content: CAACAgIAAxkBAAEChIRg3pnmNZ4o_6lepBLdfF6X2p9oWgAC6AADohXiCVhGCLfuk64QIAQ
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - PepoG
   content: CAACAgIAAxkBAAEChItg3rYFQUxHSFHxKH2j8VsZO0kFrgACsgwAAoBV8UpFNdnICB6msCAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - forsenBased
   content: CAACAgIAAxkBAAEChMZg3sxhe3gGQjIrs2wELSAkmo_HKQACrg0AAgGY-ErScIly2ZdHJiAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - MEGALUL
   content: CAACAgIAAxkBAAECiWtg40Kx9tD2vk51dMV8VYlwtK8zMQACZA4AAjFw2UoFnmC5crNFQCAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - BatChest
   content: CAACAgIAAxkBAAECqExhAu4jrLmRRCsvSkmuZyTRlr4rzQAC5Q8AAhhkGEiE_CXKkBCQZCAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - CoolCat
   content: CAACAgIAAxkBAAECqE5hAu6YRKAbjfnFXQ5auSPVZ7Ez5wACyg4AAlQFGUhLH9hCNOX2YCAE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - KEKW
   content: CAACAgIAAxkBAAECskJhDMcWHP6o2FY0rAAB8-glknhjCVcAAu4QAALO9GBIriF1V47XM8EgBA
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - pwgoodWeird
   content: CAACAgIAAxkBAAEC9mdhUAuIN59FIhkKD59HOeCLTk1VRgACtAsAAopJgEqsxE7MIzWWEiEE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - Chainik
   content: CAACAgIAAxkBAAEC-JRhUbeBD2UgEwpB41AvxOazvh_VLAACGREAApzxkUqF3mcDGkGOniEE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - EtoKomu
   content: CAACAgIAAxkBAAEC_OFhVJmsux3fZZxlImYO3b6Qv3v8QwACYhIAAldEoUqcWPao0dKrXiEE
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - BOGGED
   content: CAACAgIAAxkBAAEDg4Fhvd3elOC6SybJdhUoVKqBHrCAVQAC-RIAAsah8UnkX3963bzARyME
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - Clueless
   content: CAACAgIAAxkBAAEDjuhhxnvWV-bqEtKhSa3GmIs7Ex3m6wAC6hIAAj2DIEokMIuRGWyCiiME
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - Copium
   content: CAACAgIAAxkBAAEDju5hxnveuLCqLt1uJ7aND1LruIPIQQACQxIAAmqZIUrQsI0tbQiggiME
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - Bedge
   content: CAACAgIAAxkBAAEDjuphxnvZOMw0hbE_huv5AYHxzgNk3wACBRUAAi8eKUoy98UKzxKM0SME
 
-- provider: sticker
+- provider: telegram
   triggers: 
   - Wokege
   content: CAACAgIAAxkBAAEDjuxhxnvbYZVzJn8WdskUwr05txCV3QACzREAAlBPIEqsGAVMiKsdCSME
+  
+- provider: telegram
+  triggers: 
+  - Homi
+  content: CAACAgIAAxkBAAEDkb5hyaxZJcEYfIcLgeoczmGZphBr3QACGhUAAmPLUUr7uwe6zOOyNyME
   
