@@ -1058,3 +1058,8 @@
   - Homi
   content: CAACAgIAAxkBAAEDkb5hyaxZJcEYfIcLgeoczmGZphBr3QACGhUAAmPLUUr7uwe6zOOyNyME
   
+- provider: telegram
+  triggers: 
+  - Sadeg
+  content: CAACAgIAAxkBAAEDlLJhzEPkj5JXNkgaFoGovTH_JAnjXwACTxAAAsA7YEqFg4zcP8bSnCME
+  
