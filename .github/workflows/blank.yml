@@ -5,16 +5,15 @@ on:
     types: [opened]
 
   workflow_dispatch:
-
+  
 jobs:
   use:
     runs-on: ubuntu-latest
-    if: ${{ contains( env.TRUSTED_USERS, github.event.issue.user.login ) }}
-    env:
-      TRUSTED_USERS: 'rilaveon'
-
     steps:
       - uses: actions/checkout@v2
+        if: ${{ contains( env.TRUSTED_USERS, github.event.issue.user.login ) }}
+        env:
+          TRUSTED_USERS: 'rilaveon'
       - name: Create commits
         run: |
           git config user.name "github-actions[bot]"
