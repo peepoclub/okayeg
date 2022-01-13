@@ -29,16 +29,13 @@ body:
     attributes:
       label: Emote ID
       description: |
-                   Test
-                   123
-      placeholder: ex. forsenPls
+                   How to get ID:
+                   for Twitch: https://static-cdn.jtvnw.net/emoticons/v2/**emotesv2_bde78453ef2a40bf95e6ece9c7420f7c**/default/dark/3.0
+                   for BTTV: https://cdn.betterttv.net/emote/**614f3316b63cc97ee6d33e1c**/3x
+                   for Telegram, contact @rilaveon for adding to [sticker pack](https://t.me/addstickers/peepoChat)
     validations:
       required: true
       
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: Code of Conduct
       description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
       options:
         - label: I agree to follow this project's Code of Conduct
