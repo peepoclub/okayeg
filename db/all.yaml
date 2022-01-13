@@ -1063,3 +1063,8 @@
   - Sadeg
   content: CAACAgIAAxkBAAEDlLJhzEPkj5JXNkgaFoGovTH_JAnjXwACTxAAAsA7YEqFg4zcP8bSnCME
   
+- provider: telegram
+  triggers: 
+  - Despair
+  content: CAACAgIAAxkBAAEDrQ1h4ATttqrd2y9Krma3ftxHBRFASQACCxEAAmXEAAFL0StRNbOMUhgjBA
+  
