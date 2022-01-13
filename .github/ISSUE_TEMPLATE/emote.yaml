@@ -13,6 +13,7 @@ body:
       options:
         - Twitch Animated Emote
         - BetterTTV Animated Emote
+        - 7TV Animated Emote
         - Telegram Sticker
     validations:
       required: true
