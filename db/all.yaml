@@ -1068,3 +1068,8 @@
   - Despair
   content: CAACAgIAAxkBAAEDrQ1h4ATttqrd2y9Krma3ftxHBRFASQACCxEAAmXEAAFL0StRNbOMUhgjBA
   
+- provider: twitch
+  triggers:
+  - pwgoodArrive
+  content: emotesv2_bde78453ef2a40bf95e6ece9c7420f7c
+
