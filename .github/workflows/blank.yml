@@ -65,5 +65,6 @@ jobs:
             Fixes #${{ github.event.issue.number }}
           labels: |
             automated pr
+          branch: 'new-emote__${{ env.emoteid }}-${{ env.provider }}'
           assignees: rilaveon
           draft: false
