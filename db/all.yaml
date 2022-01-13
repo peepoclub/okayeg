@@ -1073,3 +1073,8 @@
   - pwgoodArrive
   content: bde78453ef2a40bf95e6ece9c7420f7c
 
+- provider: betterttv
+  triggers:
+  - monkaCat
+  content: 614f3316b63cc97ee6d33e1c
+
