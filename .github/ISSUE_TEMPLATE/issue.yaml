@@ -1,5 +1,5 @@
 name: Add new emote
-description: For staff
+description: Suggest new emote
 title: "[Emote]: "
 labels: ["new-emote"]
 assignees:
