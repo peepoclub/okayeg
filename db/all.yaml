@@ -1068,3 +1068,8 @@
   - Despair
   content: CAACAgIAAxkBAAEDrQ1h4ATttqrd2y9Krma3ftxHBRFASQACCxEAAmXEAAFL0StRNbOMUhgjBA
   
+- provider: betterttv
+  triggers:
+  - Test
+  content: 614f3316b63cc97ee6d33e1c
+
