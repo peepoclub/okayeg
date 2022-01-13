@@ -14,15 +14,56 @@ jobs:
         if: ${{ contains( env.TRUSTED_USERS, github.event.issue.user.login ) }}
         env:
           TRUSTED_USERS: 'rilaveon'
-      - name: Create commits
+          
+      - uses: stefanbuck/github-issue-parser@v2
+        id: issue-parser
+        with:
+          template-path: .github/ISSUE_TEMPLATE/issue.yaml
+          
+      - uses: actions/github-script@v5
+        env:
+          ISSUE_MODEL: ${{ steps.issue-parser.outputs.jsonString }}
+        with:
+          script: |
+            const issueModel = JSON.parse(process.env.ISSUE_MODEL);
+            
+            const emoteProvider = {
+              "Twitch Animated Emote": "twitch",
+              "BetterTTV Animated Emote": "betterttv",
+              "Telegram Sticker": "telegram",
+            }
+            
+            const provider = emoteProvider[issueModel.type]
+            
+            core.exportVariable('provider', provider)
+            core.exportVariable('emotename', issueModel.emotename)
+            core.exportVariable('emoteid', issueModel.emoteid)
+
+      - name: Create commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          echo "- provider: telegram" >> ./db/all.yaml
+          echo "- provider: $provider" >> ./db/all.yaml
           echo "  triggers:" >> ./db/all.yaml
-          echo "  - Despair" >> ./db/all.yaml
-          echo "  content: CAACAgIAAxkBAAEDrQ1h4ATttqrd2y9Krma3ftxHBRFASQACCxEAAmXEAAFL0StRNbOMUhgjBA" >> ./db/all.yaml
+          echo "  - $emotename" >> ./db/all.yaml
+          echo "  content: $emoteid" >> ./db/all.yaml
           echo "" >> ./db/all.yaml
           git commit -am "Add new emote"
+          
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
+        with:
+          commit-message: Update report
+          delete-branch: true
+          title: '[Add emote] $emotename'
+          body: |
+            Automated PR for add a new emote — `$emotename`
+            
+            - Provider: $provider
+            - Emote Provider ID: $emoteid
+            
+            Fixes #$GITHUB_REF
+          labels: |
+            automated pr
+          assignees: rilaveon
+          draft: false
