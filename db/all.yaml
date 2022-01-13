@@ -1071,5 +1071,5 @@
 - provider: twitch
   triggers:
   - pwgoodArrive
-  content: emotesv2_bde78453ef2a40bf95e6ece9c7420f7c
+  content: bde78453ef2a40bf95e6ece9c7420f7c
 
