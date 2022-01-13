@@ -33,6 +33,7 @@ jobs:
             const emoteProvider = {
               "Twitch Animated Emote": "twitch",
               "BetterTTV Animated Emote": "betterttv",
+              "7TV Animated Emote": "7tv",
               "Telegram Sticker": "telegram",
             }
             
