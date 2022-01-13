@@ -1,9 +1,10 @@
-name: Add new emote
+name: 🙂 Add new emote
 description: Suggest new emote
-title: "[Emote]: "
+title: "Add new emote: "
 labels: ["new-emote"]
 assignees:
   - rilaveon
+  
 body:
   - type: dropdown
     id: type
