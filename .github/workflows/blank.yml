@@ -55,14 +55,14 @@ jobs:
         with:
           commit-message: Update report
           delete-branch: true
-          title: '[Add emote] $emotename'
+          title: '[Add emote] ${{ env.emotename }}'
           body: |
-            Automated PR for add a new emote — `$emotename`
+            Automated PR for add a new emote — `${{ env.emotename }}`
             
-            - Provider: $provider
-            - Emote Provider ID: $emoteid
+            - Provider: ${{ env.provider }}
+            - Emote Provider ID: ${{ env.emoteid }}
             
-            Fixes #$GITHUB_REF
+            Fixes #${{ github.event.issue.number }}
           labels: |
             automated pr
           assignees: rilaveon
