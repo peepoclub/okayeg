@@ -1,0 +1,29 @@
+name: Create PR
+
+on:
+  issues:
+    types: [opened]
+
+  workflow_dispatch:
+
+jobs:
+  use:
+    runs-on: ubuntu-latest
+    if: ${{ contains( env.TRUSTED_USERS, github.event.issue.user.login ) }}
+    env:
+      TRUSTED_USERS: 'rilaveon'
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Create commits
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          echo "- provider: telegram" >> ./db/all.yaml
+          echo "  triggers:" >> ./db/all.yaml
+          echo "  - Despair" >> ./db/all.yaml
+          echo "  content: CAACAgIAAxkBAAEDrQ1h4ATttqrd2y9Krma3ftxHBRFASQACCxEAAmXEAAFL0StRNbOMUhgjBA" >> ./db/all.yaml
+          echo "" >> ./db/all.yaml
+          git commit -am "Add new emote"
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
