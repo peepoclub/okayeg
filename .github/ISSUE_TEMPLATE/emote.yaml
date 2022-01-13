@@ -32,7 +32,7 @@ body:
       description: |
                    How to get ID:
                    
-                   for Twitch: https:\/\/static-cdn.jtvnw.net/emoticons/v2/<ins>**emotesv2_bde78453ef2a40bf95e6ece9c7420f7c**</ins>/default/dark/3.0
+                   for Twitch: https:\/\/static-cdn.jtvnw.net/emoticons/v2/emotesv2_<ins>**bde78453ef2a40bf95e6ece9c7420f7c**</ins>/default/dark/3.0
                    for BTTV: https:\/\/cdn.betterttv.net/emote/<ins>**614f3316b63cc97ee6d33e1c**</ins>/3x
                    for Telegram, contact @rilaveon for adding to [sticker pack](https://t.me/addstickers/peepoChat)
     validations:
