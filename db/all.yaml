@@ -73,11 +73,6 @@
   - PETTHEDERP
   content: 5f28170d65fe924464ef2c4e
 
-- provider: telegram
-  triggers: 
-  - Angry
-  content: CAACAgQAAxkBAAECf0xg2m1xHC9al1ob5rr2p_B23V2hKQACUgEAAqghIQa9sh9fx49NrCAE
-
 - provider: betterttv
   triggers: 
   - PETTHEPOOSHKA
@@ -695,12 +690,8 @@
 
 - provider: telegram
   triggers: 
-  - Okayge
-  content: CAACAgIAAxkBAAECf3Jg2nJj8_pBmla6C-_Ztg2UtHimRgAC5A4AAmDNkUoUx2_CHcqw1yAE
-
-- provider: telegram
-  triggers: 
   - YEP
+  - Okayge
   content: CAACAgIAAxkBAAECf3Jg2nJj8_pBmla6C-_Ztg2UtHimRgAC5A4AAmDNkUoUx2_CHcqw1yAE
 
 - provider: telegram
@@ -896,16 +887,7 @@
 - provider: telegram
   triggers: 
   - PogChamp
-  content: CAACAgIAAxkBAAEChFxg3pdbkYHtBcFtbBukGA21S_qnxwAC-QADohXiCd3RQyeE4hBvIAQ
-
-- provider: telegram
-  triggers: 
   - KomodoHype
-  content: CAACAgIAAxkBAAEChFxg3pdbkYHtBcFtbBukGA21S_qnxwAC-QADohXiCd3RQyeE4hBvIAQ
-
-- provider: telegram
-  triggers: 
-  - PogChamp
   content: CAACAgIAAxkBAAEChFxg3pdbkYHtBcFtbBukGA21S_qnxwAC-QADohXiCd3RQyeE4hBvIAQ
 
 - provider: telegram
@@ -942,11 +924,6 @@
   triggers: 
   - PissedChamp
   content: CAACAgIAAxkBAAEChGxg3piJ8bCI-J-MhAg_T2Q2UZaflwAC8AADohXiCd4eCrt5bebuIAQ
-
-- provider: telegram
-  triggers: 
-  - 2020Suspicious
-  content: CAACAgIAAxkBAAEChG5g3pii-8P2nxLWUodvODTibk6e2QAC9gADohXiCeZakD1jt-gcIAQ
 
 - provider: telegram
   triggers: 
