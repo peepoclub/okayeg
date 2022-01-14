@@ -1,4 +1,4 @@
-name: Create Pull Request for new emote
+name: Create Pull Request for new emotes
 
 on:
   issues:
@@ -31,46 +31,71 @@ jobs:
             const issueForm = JSON.parse(process.env.ISSUE_MODEL);
 
             const emoteProvider = {
-              "Twitch Animated Emote": "twitch",
-              "BetterTTV Animated Emote": "betterttv",
-              "Telegram Sticker": "telegram",
-              "Imgur GIF": "imgur",
+              "Twitch Animated Emote": {
+                id: "twitch",
+                preview: (id) =>
+                  `https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_${id}/default/dark/3.0`,
+              },
+              "BetterTTV Animated Emote": {
+                id: "betterttv",
+                preview: (id) => `https://cdn.betterttv.net/emote/${id}/3x`,
+              },
+              "Telegram Sticker": {
+                id: "telegram",
+              },
+              "Imgur GIF": {
+                id: "imgur",
+                preview: (id) => `https://i.imgur.com/${id}.gif`,
+              },
             };
 
-            let triggers = [issueForm.emotename];
-
-            if (issueForm.emotename.includes(", ")) {
-              triggers = issueForm.emotename.split(", ");
-            }
+            const triggers = issueForm.emotename.split(", ");
+            const id = issueForm.emoteid;
+            const provider = emoteProvider[issueForm.type];
 
             const item = [
-              `- provider: ${emoteProvider[issueForm.type]}`,
+              `- provider: ${provider}`,
               `  triggers:`,
               triggers.map((trigger) => `  - ${trigger}`).join("\n"),
               `  content: ${issueForm.emoteid}`,
             ].join("\n");
 
-            core.exportVariable("item", item);
-            core.exportVariable("provider", emoteProvider[issueForm.type]);
-            core.exportVariable("emotename", issueForm.emotename);
-            core.exportVariable("emoteid", issueForm.emoteid);
-            
-            core.exportVariable(
-              "title",
-              `[Add emote${triggers.length > 1 ? "s" : ""}]: ${
-                triggers.length > 1 ? triggers.join(", ") : issueForm.emotename
-              }`
-            );
-            core.exportVariable(
-              "body-list",
-              triggers.length > 1
-                ? [
-                    `Automated PR for add a new emotes:`,
-                    triggers.map((trigger) => `- \`${trigger}\``).join("\n"),
-                  ].join("\n")
-                : `Automated PR for add a new emote: \`${issueForm.emotename}\``
-            );
+            const itemType = emoteProvider[issueForm.type];
 
+            const isPlural = triggers.length > 1;
+
+            const pr = {
+              title: `[Add emote${isPlural ? "s" : ""}]: ${isPlural > 1 ? triggers.join(", ") : triggers[0]}`,
+
+              body: [
+                `This is automated PR based on #${github.event.issue.number} issue.`,
+                ``,
+                `# New emote`,
+                `- Provider: ${issueForm.type} (${itemType.id})`,
+                `- Content ID: ${issueForm.emoteid}`,
+                itemType.id !== "telegram" &&
+                  [
+                    `# Preview`,
+                    `![${issueForm.emotename}](${itemType.preview(issueForm.emoteid)})`,
+                  ]
+                    .filter(Boolean)
+                    .join("\n"),
+                `# Triggers`,
+                triggers.map((trigger) => `- \`${trigger}\``).join("\n"),
+                ``,
+                `Fixes #${github.event.issue.number}`
+              ]
+                .filter(Boolean)
+                .join("\n"),
+            };
+
+            core.exportVariable("item", item);
+            core.exportVariable("provider", provider);
+            core.exportVariable("emote-name", triggers[0]);
+            core.exportVariable("emote-id", id);
+
+            core.exportVariable("pr-title", pr.title);
+            core.exportVariable("pr-body", pr.body);
 
       - name: 📃 Add emote to list
         run: |
@@ -84,16 +109,10 @@ jobs:
         uses: peter-evans/create-pull-request@v3
         with:
           delete-branch: true
-          title: '${{ env.title }}'
-          body: |
-            ${{ env.body-list }}
-            
-            - Provider: ${{ env.provider }}
-            - Emote Provider ID: ${{ env.emoteid }}
-            
-            Fixes #${{ github.event.issue.number }}
+          title: ${{ env.pr-title }}
+          body: ${{ env.pr-body }}
           labels: |
             automated pr
-          branch: 'new-emote__${{ env.emoteid }}-${{ env.provider }}'
+          branch: 'new-emote__${{ env.emote-id }}-${{ env.provider }}'
           assignees: rilaveon
           draft: false
