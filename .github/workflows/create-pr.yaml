@@ -34,7 +34,7 @@ jobs:
               "Twitch Animated Emote": "twitch",
               "BetterTTV Animated Emote": "betterttv",
               "Telegram Sticker": "telegram",
-              "Uploaded Image": "imgur",
+              "Imgur GIF": "imgur",
             }
             
             const provider = emoteProvider[issueModel.type]
