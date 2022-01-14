@@ -57,7 +57,7 @@ jobs:
 
             core.exportVariable(
               "title",
-              `[Add emote${triggers > 1 && "s"}]: ${
+              `[Add emote${triggers > 1 ? "s" : ""}]: ${
                 triggers > 1 ? triggers.join(", ") : issueForm.emotename
               }`
             );
