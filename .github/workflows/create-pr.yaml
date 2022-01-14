@@ -54,13 +54,11 @@ jobs:
             const provider = emoteProvider[issueForm.type];
 
             const item = [
-              `- provider: ${provider}`,
+              `- provider: ${provider.id}`,
               `  triggers:`,
               triggers.map((trigger) => `  - ${trigger}`).join("\n"),
               `  content: ${issueForm.emoteid}`,
             ].join("\n");
-
-            const itemType = emoteProvider[issueForm.type];
 
             const isPlural = triggers.length > 1;
 
@@ -71,12 +69,12 @@ jobs:
                 `This is automated PR based on #${context.issue.number} issue.`,
                 ``,
                 `# New emote`,
-                `- Provider: ${issueForm.type} (${itemType.id})`,
-                `- Content ID: ${issueForm.emoteid}`,
-                itemType.id !== "telegram" &&
+                `- Provider: ${issueForm.type} (${provider.id})`,
+                `- Content ID: ${id}`,
+                provider.id !== "telegram" &&
                   [
                     `# Preview`,
-                    `![${issueForm.emotename}](${itemType.preview(issueForm.emoteid)})`,
+                    `![${issueForm.emotename}](${provider.preview(issueForm.emoteid)})`,
                   ]
                     .filter(Boolean)
                     .join("\n"),
