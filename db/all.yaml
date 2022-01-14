@@ -990,6 +990,7 @@
 
 - provider: telegram
   triggers: 
+  - BASED
   - forsenBased
   content: CAACAgIAAxkBAAEChMZg3sxhe3gGQjIrs2wELSAkmo_HKQACrg0AAgGY-ErScIly2ZdHJiAE
 
@@ -1071,6 +1072,7 @@
 - provider: twitch
   triggers:
   - pwgoodArrive
+  - Arrive
   content: bde78453ef2a40bf95e6ece9c7420f7c
 
 - provider: betterttv
@@ -1086,4 +1088,5 @@
 - provider: telegram
   triggers:
   - PagMan
+  - POGGERS
   content: CAACAgIAAxkBAAPPYeHg_YL7QbKsAAHB3beBPQEHJwVSAALyEQACwbYIS9kdaN73RfJkIwQ
