@@ -62,29 +62,32 @@ jobs:
 
             const isPlural = triggers.length > 1;
 
+            const bodySection = (...sectionItems) =>
+              sectionItems.filter(Boolean).join("\n");
+
             const pr = {
-              title: `[Add emote${isPlural ? "s" : ""}]: ${isPlural > 1 ? triggers.join(", ") : triggers[0]}`,
+              title: `[Add emote${isPlural ? "s" : ""}]: ${triggers.join(", ")}`,
 
               body: [
                 `This is automated PR based on #${context.issue.number} issue.`,
-                ``,
-                `# New emote`,
-                `- Provider: ${issueForm.type} (${provider.id})`,
-                `- Content ID: ${id}`,
+                bodySection(
+                  `# New Emote`,
+                  `- Provider: ${issueForm.type} (${provider.id})`,
+                  `- Content ID: ${id}`
+                ),
                 provider.id !== "telegram" &&
-                  [
-                    `# Preview`,
-                    `![${issueForm.emotename}](${provider.preview(issueForm.emoteid)})`,
-                  ]
-                    .filter(Boolean)
-                    .join("\n"),
-                `# Triggers`,
-                triggers.map((trigger) => `- \`${trigger}\``).join("\n"),
-                ``,
-                `Fixes #${context.issue.number}`
+                  bodySection(
+                    `# Emote Preview`,
+                    `![${issueForm.emotename}](${provider.preview(issueForm.emoteid)})`
+                  ),
+                bodySection(
+                  `# Triggers`,
+                  triggers.map((trigger) => `- \`${trigger}\``).join("\n")
+                ),
+                `Fixes #${context.issue.number}`,
               ]
                 .filter(Boolean)
-                .join("\n"),
+                .join("\n\n"),
             };
 
             core.exportVariable("item", item);
