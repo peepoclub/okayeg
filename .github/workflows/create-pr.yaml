@@ -51,6 +51,9 @@ jobs:
             ].join("\n")
             
             core.exportVariable('item', item)
+            core.exportVariable('provider', emoteProvider[issueForm.type])
+            core.exportVariable('emotename', issueModel.emotename)
+            core.exportVariable('emoteid', issueModel.emoteid)
 
       - name: 📃 Add emote to list
         run: |
