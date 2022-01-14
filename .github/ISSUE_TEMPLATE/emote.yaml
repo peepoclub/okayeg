@@ -14,7 +14,7 @@ body:
         - Twitch Animated Emote
         - BetterTTV Animated Emote
         - Telegram Sticker
-        - Uploaded Image
+        - Imgur GIF
     validations:
       required: true
       
@@ -39,7 +39,7 @@ body:
                      https:\/\/cdn.betterttv.net/emote/<ins>**614f3316b63cc97ee6d33e1c**</ins>/3x
                    - **Telegram Sticker**
                      Contact @rilaveon for adding to [sticker pack](https://t.me/addstickers/peepoChat)
-                   - **Uploaded Image** 
+                   - **Imgur GIF** 
                      https:\/\/i.imgur.com/<ins>**QUBCtxn**</ins>.gif 
                      Convert animated image to GIF and upload to Imgur. Upload as anonymous
     validations:
