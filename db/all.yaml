@@ -1078,3 +1078,8 @@
   - monkaCat
   content: 614f3316b63cc97ee6d33e1c
 
+- provider: betterttv
+  triggers:
+  - Piston
+  content: 61df1b0d06fd6a9f5be06b28
+
