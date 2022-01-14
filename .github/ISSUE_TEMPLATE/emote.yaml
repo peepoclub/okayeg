@@ -14,7 +14,7 @@ body:
         - Twitch Animated Emote
         - BetterTTV Animated Emote
         - Telegram Sticker
-        - Uploaded image
+        - Uploaded Image
     validations:
       required: true
       
