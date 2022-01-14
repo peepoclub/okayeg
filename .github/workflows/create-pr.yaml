@@ -86,7 +86,7 @@ jobs:
           delete-branch: true
           title: '${{ env.title }}'
           body: |
-            Automated PR for add a new emote — `${{ env.emotename }}`
+            ${{ env.body-list }}
             
             - Provider: ${{ env.provider }}
             - Emote Provider ID: ${{ env.emoteid }}
