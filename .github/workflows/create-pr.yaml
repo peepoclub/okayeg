@@ -28,7 +28,7 @@ jobs:
           ISSUE_MODEL: ${{ steps.issue-parser.outputs.jsonString }}
         with:
           script: |
-            const issueModel = JSON.parse(process.env.ISSUE_MODEL);
+            const issueForm = JSON.parse(process.env.ISSUE_MODEL);
             
             const emoteProvider = {
               "Twitch Animated Emote": "twitch",
@@ -37,11 +37,9 @@ jobs:
               "Imgur GIF": "imgur",
             }
             
-            const provider = emoteProvider[issueModel.type]
-            
-            core.exportVariable('provider', provider)
-            core.exportVariable('emotename', issueModel.emotename)
-            core.exportVariable('emoteid', issueModel.emoteid)
+            core.exportVariable('provider', emoteProvider[issueForm.type])
+            core.exportVariable('emotename', issueForm.emotename)
+            core.exportVariable('emoteid', issueForm.emoteid)
 
       - name: 📃 Add emote to list
         run: |
