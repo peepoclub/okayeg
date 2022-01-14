@@ -50,7 +50,7 @@ jobs:
               `  content: ${issueForm.emoteid}`,
             ].join("\n")
             
-            core.exportVariable('item', issueForm.emoteid)
+            core.exportVariable('item', item)
 
       - name: 📃 Add emote to list
         run: |
