@@ -6,7 +6,7 @@
 ## Description
 
 <details>
-<summary>🇷🇺 Этот бот поможет вам использовать смайлы Twitch/BTTV/FFZ прямо в Telegram</summary>
+<summary>🇷🇺 Этот бот поможет вам использовать смайлы Twitch, BTTV, FFZ, 7TV прямо в Telegram</summary>
 
 Бот работает автоматически, его не нужно никуда добавлять. 
 Просто откройте любой из своих чатов и введите `@OkayegBot` в поле сообщения. Затем нажмите на результат, чтобы отправить.
@@ -18,7 +18,7 @@
 </details>
 
 <details>
-<summary>🇬🇧 This bot will help you use Twitch/BTTV/FFZ emotes directly in Telegram</summary>
+<summary>🇬🇧 This bot will help you use Twitch, BTTV, FFZ, 7TV emotes directly in Telegram</summary>
 
 It works automatically, no need to add it anywhere. 
 Simply open any of your chats and type `@OkayegBot` something in the message field. 
