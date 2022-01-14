@@ -1083,3 +1083,7 @@
   - Piston
   content: 61df1b0d06fd6a9f5be06b28
 
+- provider: telegram
+  triggers:
+  - PagMan
+  content: CAACAgIAAxkBAAPPYeHg_YL7QbKsAAHB3beBPQEHJwVSAALyEQACwbYIS9kdaN73RfJkIwQ
