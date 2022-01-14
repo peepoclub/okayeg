@@ -88,7 +88,7 @@ jobs:
             };
 
             core.exportVariable("item", item);
-            core.exportVariable("provider", provider);
+            core.exportVariable("provider", provider.id);
             core.exportVariable("emote-name", triggers[0]);
             core.exportVariable("emote-id", id);
 
