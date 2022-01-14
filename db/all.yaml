@@ -1078,3 +1078,8 @@
   - monkaCat
   content: 614f3316b63cc97ee6d33e1c
 
+- provider: telegram
+  triggers:
+  - PagMan
+  content: CAACAgIAAxkBAAPPYeHg_YL7QbKsAAHB3beBPQEHJwVSAALyEQACwbYIS9kdaN73RfJkIwQ
+
