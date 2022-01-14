@@ -54,16 +54,16 @@ jobs:
             core.exportVariable("provider", emoteProvider[issueForm.type]);
             core.exportVariable("emotename", issueForm.emotename);
             core.exportVariable("emoteid", issueForm.emoteid);
-
+            
             core.exportVariable(
               "title",
-              `[Add emote${triggers > 1 ? "s" : ""}]: ${
-                triggers > 1 ? triggers.join(", ") : issueForm.emotename
+              `[Add emote${triggers.length > 1 ? "s" : ""}]: ${
+                triggers.length > 1 ? triggers.join(", ") : issueForm.emotename
               }`
             );
             core.exportVariable(
               "body-list",
-              triggers > 1
+              triggers.length > 1
                 ? [
                     `Automated PR for add a new emotes:`,
                     triggers.map((trigger) => `- \`${trigger}\``).join("\n"),
