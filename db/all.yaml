@@ -1074,3 +1074,9 @@
   - Lebedev
   content: 61c763b5002cdeedc220947d
 
+- provider: betterttv
+  triggers:
+  - catjam
+  - jamcat
+  content: 611add2876ea4e2b9f779e1a
+
