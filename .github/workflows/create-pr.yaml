@@ -37,18 +37,26 @@ jobs:
               "Imgur GIF": "imgur",
             }
             
-            core.exportVariable('provider', emoteProvider[issueForm.type])
-            core.exportVariable('emotename', issueForm.emotename)
-            core.exportVariable('emoteid', issueForm.emoteid)
+            let triggers = [issueForm.emotename]
+            
+            if (issueForm.emotename.includes(", ")) {
+              triggers = issueForm.emotename.split(", ")
+            }
+            
+            const item = [
+              `- provider: ${emoteProvider[issueForm.type]}`,
+              `  triggers:`,
+              triggers.map((trigger)=>`  - ${trigger}`).join("\n"),
+              `  content: ${issueForm.emoteid}`,
+            ].join("\n")
+            
+            core.exportVariable('item', issueForm.emoteid)
 
       - name: 📃 Add emote to list
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          echo "- provider: $provider" >> ./db/all.yaml
-          echo "  triggers:" >> ./db/all.yaml
-          echo "  - $emotename" >> ./db/all.yaml
-          echo "  content: $emoteid" >> ./db/all.yaml
+          echo "$item" >> ./db/all.yaml
           echo "" >> ./db/all.yaml
           git commit -am "Add new emote"
           
