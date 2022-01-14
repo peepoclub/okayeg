@@ -33,13 +33,13 @@ body:
       description: |
                    How to get emote ID:
                    
-                   - Twitch Animated Emote: 
+                   - **Twitch Animated Emote**
                      https:\/\/static-cdn.jtvnw.net/emoticons/v2/emotesv2_<ins>**bde78453ef2a40bf95e6ece9c7420f7c**</ins>/default/dark/3.0
-                   - BetterTTV Animated Emote: 
+                   - **BetterTTV Animated Emote**
                      https:\/\/cdn.betterttv.net/emote/<ins>**614f3316b63cc97ee6d33e1c**</ins>/3x
-                   - Telegram Sticker
+                   - **Telegram Sticker**
                      Contact @rilaveon for adding to [sticker pack](https://t.me/addstickers/peepoChat)
-                   - Uploaded Image: 
+                   - **Uploaded Image** 
                      https:\/\/i.imgur.com/<ins>**QUBCtxn**</ins>.gif 
                      Convert animated image to GIF and upload to Imgur. Upload as anonymous
     validations:
