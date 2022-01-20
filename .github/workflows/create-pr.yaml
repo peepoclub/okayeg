@@ -114,7 +114,6 @@ jobs:
           body: ${{ env.pr-body }}
           labels: |
             automated pr
-            automerge
           branch: 'new-emote__${{ env.emote-id }}-${{ env.provider }}'
           assignees: rilaveon
           draft: false
