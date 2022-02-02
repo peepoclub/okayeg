@@ -218,10 +218,10 @@
   - GachiPls
   content: 58868aa5afc2ff756c3f495e
 
-- provider: betterttv
+- provider: telegram
   triggers: 
   - HACKERMANS
-  content: 5b490e73cf46791f8491f6f4
+  content: CAACAgIAAxkBAAIBJWH6aPSM8jfXhSlKEyDMFfyk2um_AAJBEgAC38PQS9dP30QxxsPhIwQ
 
 - provider: betterttv
   triggers: 
@@ -248,10 +248,10 @@
   - GuitarTime
   content: 576befd71f520d6039622f7e
 
-- provider: betterttv
+- provider: telegram
   triggers: 
   - pepeJAMJAM
-  content: 5c36fba2c6888455faa2e29f
+  content: CAACAgIAAxkBAAIBIWH6Z6DfvZk1f2GeuxBKL_Hi4Hf-AAKdFgACkyTRSzjm0q4WgCZdIwQ
 
 - provider: betterttv
   triggers: 
@@ -268,10 +268,10 @@
   - forsenSWA
   content: 571647c4793a158658202e2e
 
-- provider: betterttv
+- provider: telegram
   triggers: 
   - gachiHop
-  content: 571e5ae5ef2b92040a9682c7
+  content: CAACAgIAAxkBAAIBI2H6Z_12EgXmY_vnqn2BjwF5X-CNAAKkFQACqPLRS_cCckpZwfghIwQ
 
 - provider: betterttv
   triggers: 
@@ -479,10 +479,10 @@
   - WeirdChamping
   content: 5fccf1699d35484633453e68
 
-- provider: betterttv
+- provider: telegram
   triggers: 
   - sadCat
-  content: 5e116a78b640b52102c64372
+  content: CAACAgIAAxkBAAIBD2H6Xtp-O6jAJx_IXUXildZ1NN0OAAJyEwACxWXYS6SuC0c9cigHIwQ
 
 - provider: telegram
   triggers: 
@@ -579,6 +579,11 @@
   - catJAM
   content: CAACAgIAAxkBAAPtYfpcYcltUNOcGQEgYo8tQTRxTkMAAp0SAALpG9BL2WjpyLefK7IjBA
 
+- provider: telegram
+  triggers: 
+  - pepeJAM
+  content: CAACAgIAAxkBAAIBH2H6ZwMR6erMUauSTAh9FnZxAdXQAAItGQACR4nYSyvTHQpR4sweIwQ
+
 - provider: betterttv
   triggers: 
   - ppJAM
@@ -609,20 +614,26 @@
   - MODS
   content: 60217cb4cc5c150246d90cd4
 
-- provider: betterttv
+- provider: telegram
   triggers: 
   - headBang
-  content: 6047c3e7306b602acc599d48
+  content: CAACAgIAAxkBAAIBHWH6ZpYCqQ6QwRQLIB3vI1pPj3g8AALOGAACMrbYS0Ts87hFq9ItIwQ
 
 - provider: telegram
   triggers: 
   - peepoTalk
   content: CAACAgIAAxkBAAP7YfpdLArcPxCO_P-Ft8hyohWa8X0AAnsUAAKe5dFLjBvatRiLiC8jBA
 
-- provider: betterttv
+- provider: telegram
   triggers: 
   - VeryPog
-  content: 60ade6eaf8b3f62601c332dc
+  - VeryFors
+  content: CAACAgIAAxkBAAIBGWH6ZjJfhTe8Rob1E3wa4cR32InxAAJIEgACFZLZSzCvt7nRJNd1IwQ
+
+- provider: telegram
+  triggers: 
+  - VeryPog
+  content: CAACAgIAAxkBAAIBG2H6ZjXN1pRV9uNsLgZygo7dNPPtAALWFAACI2TZS529IYz79IyMIwQ
 
 - provider: telegram
   triggers: 
@@ -639,15 +650,22 @@
   - ppFall
   content: CAACAgIAAxkBAAPpYfpcTCa3ahlj4ZYF_bARh8hArNYAAssRAAJ3NNFLrgxRnwGHORgjBA
 
-- provider: betterttv
+- provider: telegram
   triggers: 
   - peepoRun
-  content: 5bc7ff14664a3b079648dd66
+  content: CAACAgIAAxkBAAIBFWH6Yp93IG84d7BnDkXjqAbNqYQGAAIXEwAC1gPZSx1Px1-mmI2pIwQ
 
 - provider: betterttv
   triggers: 
+  - FeelsRainMan
   - peepoRain
   content: 60d1c57d8ed8b373e4217bee
+
+- provider: telegram
+  triggers: 
+  - FeelsRainMan
+  - peepoRain
+  content: CAACAgIAAxkBAAIBF2H6YxwtcE4KTuscG6c3RWPmNK70AALFFQACqRnZS9V5FUy9XspnIwQ
 
 - provider: telegram
   triggers: 
@@ -1073,10 +1091,10 @@
   - Arrive
   content: bde78453ef2a40bf95e6ece9c7420f7c
 
-- provider: betterttv
+- provider: telegram
   triggers:
   - monkaCat
-  content: 614f3316b63cc97ee6d33e1c
+  content: CAACAgIAAxkBAAIBE2H6YgyLNy4X856jLml_D0qIWYJxAAIlEwACHbLRS4NO_wkflw8vIwQ
 
 - provider: betterttv
   triggers:
