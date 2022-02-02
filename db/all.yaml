@@ -582,11 +582,11 @@
   triggers: 
   - peepoChat
   content: CAACAgIAAxkBAAPTYfoaJj-bAngREv0zDE1vLxZe-tUAAukVAAIDnNFLgDzZg3gqdcMjBA
-
-- provider: betterttv
+  
+- provider: telegram
   triggers: 
   - AlienPls3
-  content: 607d5f6639b5010444d022a0
+  content: CAACAgIAAxkBAAPVYfpFYwRshxt_HOhKjj93FAX5QfwAAjAUAAKoFdBLLUnDS64AAfelIwQ
 
 - provider: betterttv
   triggers: 
