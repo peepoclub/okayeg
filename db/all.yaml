@@ -213,10 +213,10 @@
   - EatPoo
   content: 5903aeee981c75232793894d
 
-- provider: betterttv
+- provider: telegram
   triggers: 
   - GachiPls
-  content: 58868aa5afc2ff756c3f495e
+  content: CAACAgIAAxkBAAIBJ2H6aZvR1vOwxVwnXubuNx1BDQABCAACShMAAraY0UsR2hlSZtfFNCME
 
 - provider: telegram
   triggers: 
