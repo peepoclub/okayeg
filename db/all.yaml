@@ -578,10 +578,10 @@
   - Shulker
   content: 6053e4be306b602acc59f8de
 
-- provider: betterttv
+- provider: telegram
   triggers: 
   - peepoChat
-  content: 5e1bd08688e62a5f14dc6316
+  content: CAACAgIAAxkBAAPTYfoaJj-bAngREv0zDE1vLxZe-tUAAukVAAIDnNFLgDzZg3gqdcMjBA
 
 - provider: betterttv
   triggers: 
