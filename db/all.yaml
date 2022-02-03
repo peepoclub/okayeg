@@ -15,11 +15,6 @@
 
 - provider: betterttv
   triggers: 
-  - puking
-  content: 5eb1340650eb4f058b85841a
-
-- provider: betterttv
-  triggers: 
   - forsenRage
   content: 5f1158e973e8e20538d8376f
 
