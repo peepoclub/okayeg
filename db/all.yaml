@@ -33,6 +33,15 @@
   - Flushed
   content: CAACAgEAAxkBAAECf0Jg2mz0cf3IN767CuzLGdniRD_VcgAC0QcAAuN4BAABNof1qTuyYVMgBA
 
+- provider: telegram
+  triggers: 
+  - puke
+  - (puke)
+  - puking
+  - vomit
+  - vomiting
+  content: CAACAgIAAxkBAAIBK2H7eSvCvmH0FxGG4K4il3fzg21vAALTEQAC6zTgS_asBZhJYOrnIwQ
+
 - provider: betterttv
   triggers: 
   - peepoKotleta
