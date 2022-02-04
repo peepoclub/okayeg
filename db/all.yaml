@@ -27,6 +27,12 @@
   triggers: 
   - Flushed
   content: CAACAgEAAxkBAAECf0Jg2mz0cf3IN767CuzLGdniRD_VcgAC0QcAAuN4BAABNof1qTuyYVMgBA
+  
+- provider: telegram
+  triggers: 
+  - detective
+  - peepoDetective
+  content: CAACAgIAAxkBAAIBMWH9HW0NP_5oUzM84L2FldUbAAGyKQACQQADtEzqKPMQeGoDYlfvIwQ
 
 - provider: telegram
   triggers: 
