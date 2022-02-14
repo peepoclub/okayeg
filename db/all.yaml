@@ -380,7 +380,7 @@
 
 - provider: telegram
   triggers: 
-  - Coomer
+  - forsenCoomer
   content: CAACAgIAAxkBAAIBVmIKevmvVLpg29JGypONEay2gfFNAAIzFwACnWpRSFja16Hf7avxIwQ
 
 - provider: betterttv
