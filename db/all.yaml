@@ -378,10 +378,10 @@
   - peepoShut
   content: 5e12e38d3267f72103fd6b15
 
-- provider: betterttv
+- provider: telegram
   triggers: 
-  - forsenCoomer
-  content: 5ec7287010aaa55e294663dc
+  - Coomer
+  content: CAACAgIAAxkBAAIBVmIKevmvVLpg29JGypONEay2gfFNAAIzFwACnWpRSFja16Hf7avxIwQ
 
 - provider: betterttv
   triggers: 
@@ -619,10 +619,25 @@
   - pepeD
   content: 6073c41539b5010444cfd90c
 
-- provider: betterttv
+- provider: telegram
   triggers: 
   - MODS
-  content: 60217cb4cc5c150246d90cd4
+  content: CAACAgIAAxkBAAIBWGIKevu09uufnPo8cH4RHDvofwobAAJ2FAACpVRYSJgzQkjdvWkiIwQ
+
+- provider: telegram
+  triggers: 
+  - MODS
+  content: CAACAgIAAxkBAAIBWmIKevytTAm2LNWU0X3OF59Pn_YnAALMFQAC_8FRSDnOpUaguyL0IwQ
+
+- provider: telegram
+  triggers: 
+  - PogBones
+  content: CAACAgIAAxkBAAIBXGIKev1KZ6XDnkj1ZMMWAAGPh3QHzwACahoAAv7tWUgFSErG0nZZ_iME
+
+- provider: telegram
+  triggers: 
+  - PoroSad
+  content: CAACAgIAAxkBAAIBXmIKev7dQBX2dtPcKryk-zIQqO3cAALiFQACErFYSMTkDRwQhWY3IwQ
 
 - provider: telegram
   triggers: 
