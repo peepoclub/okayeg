@@ -1152,3 +1152,8 @@
   triggers:
   - peepoDJ
   content: CAACAgIAAxkBAAPfYfpb-2Kas3rN5meaGIl8yXnQ9SMAAjgVAAKUldFLCJqlN8SKhFAjBA
+
+- provider: telegram
+  triggers:
+  - BillyApprove
+  content: CAACAgIAAxkBAAIBaWIgk4vpyyVpqDgXWuaGbO1vxi8UAAKZFwACVK4BSTRjXNYHVYzqIwQ
