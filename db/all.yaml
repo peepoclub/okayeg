@@ -1107,6 +1107,7 @@
   
 - provider: telegram
   triggers: 
+  - pwgoodDespair
   - Despair
   content: CAACAgIAAxkBAAEDrQ1h4ATttqrd2y9Krma3ftxHBRFASQACCxEAAmXEAAFL0StRNbOMUhgjBA
   
@@ -1130,6 +1131,8 @@
   triggers:
   - PagMan
   - POGGERS
+  - Pog
+  - Pag
   content: CAACAgIAAxkBAAPPYeHg_YL7QbKsAAHB3beBPQEHJwVSAALyEQACwbYIS9kdaN73RfJkIwQ
 
 - provider: betterttv
@@ -1156,4 +1159,5 @@
 - provider: telegram
   triggers:
   - BillyApprove
+  - KRASAVA
   content: CAACAgIAAxkBAAIBaWIgk4vpyyVpqDgXWuaGbO1vxi8UAAKZFwACVK4BSTRjXNYHVYzqIwQ
