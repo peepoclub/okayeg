@@ -66,7 +66,7 @@ jobs:
               sectionItems.filter(Boolean).join("\n");
 
             const pr = {
-              title: `[Add emote${isPlural ? "s" : ""}]: ${triggers.join(", ")}`,
+              title: `add emote${isPlural ? "s" : ""}: ${triggers.join(", ")}`,
 
               body: [
                 `This is automated PR based on #${context.issue.number} issue.`,
