@@ -1161,3 +1161,8 @@
   - BillyApprove
   - KRASAVA
   content: CAACAgIAAxkBAAIBaWIgk4vpyyVpqDgXWuaGbO1vxi8UAAKZFwACVK4BSTRjXNYHVYzqIwQ
+- provider: seventv
+  triggers:
+  - PLEASE
+  content: 612d78ab29ee958c97fe6b91
+
