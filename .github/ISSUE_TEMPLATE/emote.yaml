@@ -13,6 +13,7 @@ body:
       options:
         - Twitch Animated Emote
         - BetterTTV Animated Emote
+        - 7TV Animated Emote
         - Telegram Sticker
         - Imgur GIF
     validations:
@@ -38,6 +39,8 @@ body:
          https:\/\/static-cdn.jtvnw.net/emoticons/v2/emotesv2_<ins>**bde78453ef2a40bf95e6ece9c7420f7c**</ins>/default/dark/3.0
        - **BetterTTV Animated Emote**
          https:\/\/cdn.betterttv.net/emote/<ins>**614f3316b63cc97ee6d33e1c**</ins>/3x
+       - **7TV Animated Emote**
+         https:\/\/7tv.app/emotes/<ins>**612d78ab29ee958c97fe6b91**</ins>
        - **Telegram Sticker**
          Contact @rilaveon for adding to [sticker pack](https://t.me/addstickers/peepoChat)
        - **Imgur GIF** 
