@@ -12,9 +12,9 @@ jobs:
     steps:
       - name: 🎗️ Checkout
         uses: actions/checkout@v2
-        if: ${{ contains( env.TRUSTED_USERS, github.event.issue.user.login ) }}
-        env:
-          TRUSTED_USERS: 'rilaveon'
+        # if: ${{ contains( env.TRUSTED_USERS, github.event.issue.user.login ) }}
+        # env:
+        #   TRUSTED_USERS: 'rilaveon'
           
       - name: ⬇️ Parse issue
         uses: stefanbuck/github-issue-parser@v2
