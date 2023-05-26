@@ -1166,3 +1166,8 @@
   - PLEASE
   content: 612d78ab29ee958c97fe6b91
 
+- provider: seventv
+  triggers:
+  - uuh
+  content: 645c29a0a93fbaf6fa2b5647
+
